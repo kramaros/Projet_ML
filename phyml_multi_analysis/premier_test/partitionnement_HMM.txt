@@ -1,0 +1,15 @@
+Résultats du partitionnement HMM
+
+Alignement : simSeqs.phy
+Nombre de segments détectés : 2
+Segment 1 : positions 0-599, arbre 0
+Segment 2 : positions 600-999, arbre 1
+Point de changement : frontière 599/600
+Point attendu : position 599
+
+Log-vraisemblance PhyML-Multi : -19811.596047
+Score Viterbi : -19812.4156955
+
+Conclusion :
+Le modèle retrouve le changement d'histoire
+phylogénétique attendu dans cet alignement simulé.
