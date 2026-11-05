@@ -1,0 +1,12 @@
+alphabet = DNA
+
+input.tree.file = arbre_C.dnd
+input.tree.format = Newick
+
+model = HKY85(kappa=2, theta=0.5, theta1=0.5, theta2=0.5)
+rate_distribution = Gamma(n=4, alpha=0.5)
+
+number_of_sites = 250
+
+output.sequence.file = segment_C.fasta
+output.sequence.format = Fasta

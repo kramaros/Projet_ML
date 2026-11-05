@@ -1,0 +1,21 @@
+Simulation K=2
+
+Nombre d'espèces : 4
+Longueur : 1000 nucléotides
+K réel : 2
+Point de changement attendu : entre 600 et 601
+
+Résultats PhyML-Multi :
+Log-vraisemblance : -3246.070536
+Autocorrélation : 0.997791
+
+Résultats SARMENT :
+Viterbi : <0-599>0 / <600-999>1
+Score Viterbi : -3247.42530772
+
+Forward-Backward : <0-598>0 / <599-999>1
+Score affiché : -2.28500601953
+
+Conclusion :
+Viterbi retrouve exactement le découpage simulé.
+Forward-Backward situe la frontière un site plus tôt.

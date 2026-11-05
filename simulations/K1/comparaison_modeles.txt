@@ -1,0 +1,29 @@
+Comparaison des analyses - Simulation K1
+
+K réel : 1
+Longueur : 1000 sites
+Nombre d'espèces : 4
+Modèle de substitution : HKY
+
+1 arbre candidat, sans HMM :
+Log-vraisemblance = -3272.123538
+
+1 arbre candidat, avec HMM :
+Log-vraisemblance = -3246.842005
+
+2 arbres candidats, avec HMM :
+Log-vraisemblance = -3242.666714
+Viterbi : 40 segments
+Forward-Backward : 144 segments
+
+Observations :
+La vraisemblance la plus élevée est obtenue
+avec deux arbres candidats et le HMM.
+
+Cependant, le K réel est 1.
+Le nombre d'arbres candidats ne correspond pas
+nécessairement au nombre de segments détectés.
+
+Ces résultats sont exploratoires.
+La validité et la comparabilité des configurations
+doivent encore être vérifiées.

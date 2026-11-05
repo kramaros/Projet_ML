@@ -1,0 +1,248 @@
+PhyML_Multi : this program has been modified compared to the usual PhyML to try to detect recombination events.
+	
+
+
+
+
+
+Sequence filename : 				 simulation_K1.phy
+Data type :             			 dna
+Sequence format : 				 sequential
+Number of data sets : 				 1
+Nb of bootstrapped data sets : 			 0
+Model name : 					 HKY
+ts/tv ratio : 					 estimated
+Proportion of invariable sites :		 estimated
+Number of subst. rate categs : 			 4
+Gamma distribution parameter : 			 estimated
+Starting tree : 				 BIONJ
+Optimise tree topology : 			 yes
+Optimise branch lengths and rate parameters : 	 yes
+Use HMM : 					 yes
+Number of trees : 				 1
+Number of trees expected : 1
+
+. Compressing sequences...
+Sequence length : 1000,  Number of patterns : 1000
+in Get_Seq_MultiTrees
+in Get_Seq_MultiTrees2
+in Get_Seq_MultiTrees3
+seg_start : 0
+seg_end : 1000
+POS : 1000
+Sequence length : 1000,  Number of patterns : 1000
+
+. Computing pairwise distances...
+
+. Building BIONJ tree...
+Tree log-likelihood : -3286.809532
+New value of the auto-correlation parameter : 0.010000
+Tree log-likelihood : -3286.809532
+New Number of input trees after the removal of apparently useless ones : 1
+We have not broken: num_tree : 0, num_tree2 : 0
+Client 16134 is in charge of tree 0
+Client 16134 : Initial tree->tot_loglk : -3286.809532
+Process 16134 : Log(lk) :    -3286.809532 ->    -3283.583483,    0 swap  done
+Process 16134 : Log(lk) :    -3283.583483 ->    -3283.414125,    0 swap  done
+Process 16134 : Log(lk) :    -3283.414125 ->    -3283.394961,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16134 : Log(lk) :    -3249.411182 ->    -3247.831262,    0 swap  done
+Process 16134 : Log(lk) :    -3247.831262 ->    -3247.673960,    0 swap  done
+Process 16134 : Log(lk) :    -3247.673960 ->    -3247.653143,    0 swap  done
+Process 16134 : Log(lk) :    -3247.653143 ->    -3247.649442,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16134 : Log(lk) :    -3247.020431 ->    -3246.915280,    0 swap  done
+Process 16134 : Log(lk) :    -3246.915280 ->    -3246.901557,    0 swap  done
+Process 16134 : Log(lk) :    -3246.901557 ->    -3246.899266,    0 swap  done
+Process 16134 : Log(lk) :    -3246.899266 ->    -3246.898780,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16134 : Log(lk) :    -3246.857304 ->    -3246.848662,    0 swap  done
+Process 16134 : Log(lk) :    -3246.848662 ->    -3246.847440,    0 swap  done
+Process 16134 : Log(lk) :    -3246.847440 ->    -3246.847220,    0 swap  done
+Process 16134 : Log(lk) :    -3246.847220 ->    -3246.847171,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16134 : Log(lk) :    -3246.843426 ->    -3246.842628,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842628 ->    -3246.842513,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842513 ->    -3246.842492,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842492 ->    -3246.842487,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16134 : Log(lk) :    -3246.842136 ->    -3246.842060,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842060 ->    -3246.842049,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842049 ->    -3246.842047,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842047 ->    -3246.842047,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16134 : Log(lk) :    -3246.842013 ->    -3246.842006,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842006 ->    -3246.842005,    0 swap  done
+Process 16134 : Log(lk) :    -3246.842005 ->    -3246.842005,    0 swap  done
+Receiving SIGUSR2
+Optimization finished for client 16134Client pauses
+Job done for client 16134
+
+	The server has finished distributing the trees
+
+Initial likelihood vector read from tree 0
+			Initial Log-likelihood of the multiTrees model : -3286.809532
+current_loglk : -3286.809532
+stuck here 1
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3286.809532
+stuck here 2
+
+			New log-likelihood of the multiTrees model :-3286.809532 -> -3283.583483
+current_loglk : -3283.583483
+stuck here 3
+
+			New log-likelihood of the multiTrees model :-3283.583483 -> -3283.414125
+current_loglk : -3283.414125
+stuck here 4
+
+			New log-likelihood of the multiTrees model :-3283.414125 -> -3249.411182
+current_loglk : -3249.411182
+stuck here 5
+
+			New log-likelihood of the multiTrees model :-3249.411182 -> -3247.831262
+current_loglk : -3247.831262
+stuck here 6
+
+			New log-likelihood of the multiTrees model :-3247.831262 -> -3247.673960
+current_loglk : -3247.673960
+stuck here 7
+
+			New log-likelihood of the multiTrees model :-3247.673960 -> -3247.653143
+current_loglk : -3247.653143
+stuck here 8
+
+			New log-likelihood of the multiTrees model :-3247.653143 -> -3247.020431
+current_loglk : -3247.020431
+stuck here 9
+
+			New log-likelihood of the multiTrees model :-3247.020431 -> -3246.915280
+
+step : 10 : Autocorrelation parameter before optimization : 0.010000 and then after : 1.000000
+
+current_loglk : -3246.915280
+stuck here 10
+
+			New log-likelihood of the multiTrees model :-3246.915280 -> -3246.901557
+current_loglk : -3246.901557
+stuck here 11
+
+			New log-likelihood of the multiTrees model :-3246.901557 -> -3246.899266
+current_loglk : -3246.899266
+stuck here 12
+
+			New log-likelihood of the multiTrees model :-3246.899266 -> -3246.857304
+current_loglk : -3246.857304
+stuck here 13
+
+			New log-likelihood of the multiTrees model :-3246.857304 -> -3246.848662
+current_loglk : -3246.848662
+stuck here 14
+
+			New log-likelihood of the multiTrees model :-3246.848662 -> -3246.847440
+current_loglk : -3246.847440
+stuck here 15
+
+			New log-likelihood of the multiTrees model :-3246.847440 -> -3246.847220
+current_loglk : -3246.847220
+stuck here 16
+
+			New log-likelihood of the multiTrees model :-3246.847220 -> -3246.843426
+current_loglk : -3246.843426
+stuck here 17
+
+			New log-likelihood of the multiTrees model :-3246.843426 -> -3246.842628
+current_loglk : -3246.842628
+stuck here 18
+
+			New log-likelihood of the multiTrees model :-3246.842628 -> -3246.842513
+current_loglk : -3246.842513
+stuck here 19
+
+			New log-likelihood of the multiTrees model :-3246.842513 -> -3246.842492
+
+step : 20 : Autocorrelation parameter before optimization : 1.000000 and then after : 0.010000
+
+current_loglk : -3246.842492
+stuck here 20
+
+			New log-likelihood of the multiTrees model :-3246.842492 -> -3246.842136
+current_loglk : -3246.842136
+stuck here 21
+
+			New log-likelihood of the multiTrees model :-3246.842136 -> -3246.842060
+current_loglk : -3246.842060
+stuck here 22
+
+			New log-likelihood of the multiTrees model :-3246.842060 -> -3246.842049
+current_loglk : -3246.842049
+stuck here 23
+
+			New log-likelihood of the multiTrees model :-3246.842049 -> -3246.842047
+current_loglk : -3246.842047
+stuck here 24
+
+			New log-likelihood of the multiTrees model :-3246.842047 -> -3246.842013
+current_loglk : -3246.842013
+stuck here 25
+
+			New log-likelihood of the multiTrees model :-3246.842013 -> -3246.842006
+current_loglk : -3246.842006
+stuck here 26
+
+			New log-likelihood of the multiTrees model :-3246.842006 -> -3246.842005
+current_loglk : -3246.842005
+stuck here 27
+
+			New log-likelihood of the multiTrees model :-3246.842005 -> -3246.842005
+A client has converged !
+
+
+			Entering the last round of optimizations, if any
+
+WAITING
+Over, code=0 (normal behaviour)
+			Final Log-likelihood of the multiTrees model : -3246.842005
+
+
+. Time used 0h0m1s
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

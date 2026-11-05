@@ -1,0 +1,37 @@
+Simulation K = 4
+
+Nombre d'espèces : 4
+Longueur : 1000 nucléotides
+K réel : 4
+Topologies simulées : A, B, C, A
+Nombre d'arbres candidats : 3
+
+Frontières simulées :
+249/250, 499/500, 749/750
+
+PhyML-Multi :
+Log-vraisemblance : -3166.231554
+Autocorrélation : 0.992126
+
+Viterbi :
+3 segments détectés
+0-288 : état 0
+289-503 : état 1
+504-999 : état 0
+Score : -3172.83843361
+
+Forward-Backward :
+5 segments détectés
+0-294 : état 0
+295-362 : état 1
+363-379 : état 0
+380-501 : état 1
+502-999 : état 0
+Score : -17.5945175068
+
+Conclusion :
+Viterbi détecte 3 segments au lieu de 4.
+Forward-Backward détecte 5 segments.
+Le changement simulé à 749/750 n'est pas retrouvé.
+Le nombre de segments détectés ne correspond
+pas toujours au nombre réel.

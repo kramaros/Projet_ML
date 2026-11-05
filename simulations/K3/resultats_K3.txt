@@ -1,0 +1,33 @@
+Simulation K = 3
+
+Nombre d'espèces : 4
+Longueur : 1000 nucléotides
+K réel : 3
+Nombre d'arbres candidats : 3
+
+Frontières simulées (indexation à partir de 0) :
+349/350 et 699/700
+
+PhyML-Multi :
+Log-vraisemblance : -3313.472541
+Autocorrélation : 0.996744
+
+Viterbi :
+3 segments
+0-375 : arbre 0
+376-698 : arbre 1
+699-999 : arbre 2
+Score : -3316.53177114
+
+Forward-Backward :
+3 segments
+0-374 : arbre 0
+375-699 : arbre 1
+700-999 : arbre 2
+Score affiche : -3.97412029634
+
+Conclusion :
+Les deux méthodes retrouvent 3 segments.
+La première frontière est décalée de 25 à 26 sites.
+La deuxième frontière est très proche de la
+position simulée, et exacte avec Forward-Backward.

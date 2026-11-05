@@ -1,0 +1,5 @@
+logLikelihood : -3313.472541
+Autocorrelation parameter : 0.996744
+
+
+. Time used 0h0m1s

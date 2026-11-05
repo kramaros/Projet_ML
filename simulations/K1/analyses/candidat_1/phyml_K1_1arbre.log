@@ -1,0 +1,227 @@
+PhyML_Multi : this program has been modified compared to the usual PhyML to try to detect recombination events.
+	
+
+
+
+
+
+Sequence filename : 				 simulation_K1.phy
+Data type :             			 dna
+Sequence format : 				 sequential
+Number of data sets : 				 1
+Nb of bootstrapped data sets : 			 0
+Model name : 					 HKY
+ts/tv ratio : 					 estimated
+Proportion of invariable sites :		 estimated
+Number of subst. rate categs : 			 4
+Gamma distribution parameter : 			 estimated
+Starting tree : 				 BIONJ
+Optimise tree topology : 			 yes
+Optimise branch lengths and rate parameters : 	 yes
+Use HMM : 					 no
+Number of trees : 				 1
+Number of trees expected : 1
+
+. Compressing sequences...
+Sequence length : 1000,  Number of patterns : 1000
+in Get_Seq_MultiTrees
+in Get_Seq_MultiTrees2
+in Get_Seq_MultiTrees3
+seg_start : 0
+seg_end : 1000
+POS : 1000
+Sequence length : 1000,  Number of patterns : 1000
+
+. Computing pairwise distances...
+
+. Building BIONJ tree...
+Tree log-likelihood : -3294.493838
+New value of the auto-correlation parameter : 0.010000
+Tree log-likelihood : -3286.809532
+New Number of input trees after the removal of apparently useless ones : 1
+We have not broken: num_tree : 0, num_tree2 : 0
+Client 16067 is in charge of tree 0
+Client 16067 : Initial tree->tot_loglk : -3294.493838
+Process 16067 : Log(lk) :    -3294.493838 ->    -3269.910012,    0 swap  done
+Process 16067 : Log(lk) :    -3269.910012 ->    -3268.620308,    0 swap  done
+Process 16067 : Log(lk) :    -3268.620308 ->    -3268.506229,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16067 : Log(lk) :    -3249.425862 ->    -3247.626946,    0 swap  done
+Process 16067 : Log(lk) :    -3247.626946 ->    -3247.450380,    0 swap  done
+Process 16067 : Log(lk) :    -3247.450380 ->    -3247.427661,    0 swap  done
+Process 16067 : Log(lk) :    -3247.427661 ->    -3247.423700,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16067 : Log(lk) :    -3247.164244 ->    -3247.000317,    0 swap  done
+Process 16067 : Log(lk) :    -3247.000317 ->    -3246.980235,    0 swap  done
+Process 16067 : Log(lk) :    -3246.980235 ->    -3246.977143,    0 swap  done
+Process 16067 : Log(lk) :    -3246.977143 ->    -3246.976524,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16067 : Log(lk) :    -3246.941491 ->    -3246.920278,    0 swap  done
+Process 16067 : Log(lk) :    -3246.920278 ->    -3246.917482,    0 swap  done
+Process 16067 : Log(lk) :    -3246.917482 ->    -3246.917024,    0 swap  done
+Process 16067 : Log(lk) :    -3246.917024 ->    -3246.916928,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16067 : Log(lk) :    -3246.911298 ->    -3246.908726,    0 swap  done
+Process 16067 : Log(lk) :    -3246.908726 ->    -3246.908372,    0 swap  done
+Process 16067 : Log(lk) :    -3246.908372 ->    -3246.908311,    0 swap  done
+Process 16067 : Log(lk) :    -3246.908311 ->    -3246.908298,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 16067 : Log(lk) :    -3246.906911 ->    -3246.906714,    0 swap  done
+Process 16067 : Log(lk) :    -3246.906714 ->    -3246.906686,    0 swap  done
+Process 16067 : Log(lk) :    -3246.906686 ->    -3246.906681,    0 swap  done
+Process 16067 : Log(lk) :    -3246.906681 ->    -3246.906680,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Receiving SIGUSR2
+Optimization finished for client 16067Client pauses
+Job done for client 16067
+
+	The server has finished distributing the trees
+
+Initial likelihood vector read from tree 0
+			Initial Log-likelihood of the multiTrees model : -3286.809532
+current_loglk : -3286.809532
+stuck here 1
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3286.809532
+stuck here 2
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3286.809532
+stuck here 3
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3286.809532
+stuck here 4
+
+			New log-likelihood of the multiTrees model :-3286.809532 -> -3272.123538
+current_loglk : -3272.123538
+stuck here 5
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 6
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 7
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 8
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 9
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 10
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 11
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 12
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 13
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 14
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 15
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 16
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 17
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 18
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 19
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 20
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 21
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 22
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 23
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3272.123538
+stuck here 24
+
+			The likelihood has not increased after reading a new likelihood vector
+We remove an unefficient client !
+
+
+			Entering the last round of optimizations, if any
+
+WAITING
+Over, code=0 (normal behaviour)
+			Final Log-likelihood of the multiTrees model : -3272.123538
+
+
+. Time used 0h0m0s
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

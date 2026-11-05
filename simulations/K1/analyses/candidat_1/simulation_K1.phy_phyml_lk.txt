@@ -1,0 +1,4 @@
+logLikelihood : -3272.123538
+
+
+. Time used 0h0m0s

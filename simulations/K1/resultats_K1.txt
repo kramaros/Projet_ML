@@ -1,0 +1,22 @@
+Simulation K = 1
+
+Nombre d'espèces : 4
+Longueur : 1000 nucléotides
+K réel : 1
+Nombre d'arbres candidats : 2
+
+Résultats PhyML-Multi :
+Log-vraisemblance : -3242.666714
+Autocorrélation : 0.578119
+
+Résultats SARMENT :
+Viterbi : 40 segments
+Forward-Backward : 144 segments
+
+Conclusion :
+L'alignement a été simulé sans recombinaison.
+Cependant, les deux méthodes produisent de nombreux
+changements d'état phylogénétique.
+
+On observe un surdécoupage important lorsque
+deux arbres candidats sont utilisés sur cet alignement.

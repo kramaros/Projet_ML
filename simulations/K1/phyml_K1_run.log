@@ -1,0 +1,2807 @@
+PhyML_Multi : this program has been modified compared to the usual PhyML to try to detect recombination events.
+	
+
+
+
+
+
+Sequence filename : 				 simulation_K1.phy
+Data type :             			 dna
+Sequence format : 				 sequential
+Number of data sets : 				 1
+Nb of bootstrapped data sets : 			 0
+Model name : 					 HKY
+ts/tv ratio : 					 estimated
+Proportion of invariable sites :		 estimated
+Number of subst. rate categs : 			 4
+Gamma distribution parameter : 			 estimated
+Starting tree : 				 BIONJ
+Optimise tree topology : 			 yes
+Optimise branch lengths and rate parameters : 	 yes
+Use HMM : 					 yes
+Number of trees : 				 2
+Number of trees expected : 2
+
+. Compressing sequences...
+Sequence length : 1000,  Number of patterns : 1000
+in Get_Seq_MultiTrees
+in Get_Seq_MultiTrees2
+in Get_Seq_MultiTrees3
+seg_start : 0
+seg_end : 500
+POS : 500
+Sequence length : 500,  Number of patterns : 500
+
+. Computing pairwise distances...
+
+. Building BIONJ tree...
+Tree log-likelihood : -3293.667298
+in Get_Seq_MultiTrees
+in Get_Seq_MultiTrees2
+in Get_Seq_MultiTrees3
+seg_start : 500
+seg_end : 1000
+POS : 500
+Sequence length : 500,  Number of patterns : 500
+
+. Computing pairwise distances...
+
+. Building BIONJ tree...
+Tree log-likelihood : -3292.302605
+New value of the auto-correlation parameter : 0.010000
+Tree log-likelihood : -3286.124931
+New Number of input trees after the removal of apparently useless ones : 2
+We have not broken: num_tree : 0, num_tree2 : 0
+We have not broken: num_tree : 1, num_tree2 : 1
+Client 15810 is in charge of tree 0
+Client 15810 : Initial tree->tot_loglk : -3971.302132
+Client 15811 is in charge of tree 1
+Client 15811 : Initial tree->tot_loglk : -3969.808729
+Process 15810 : Log(lk) :    -3286.319198 ->    -3283.004115,    0 swap  done
+Process 15811 : Log(lk) :    -3286.319198 ->    -3282.174652,    0 swap  done
+Process 15810 : Log(lk) :    -3283.004115 ->    -3282.554352,    0 swap  done
+Process 15810 : Log(lk) :    -3282.554352 ->    -3282.478227,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3284.045768 ->    -3283.002224,    0 swap  done
+Process 15811 : Log(lk) :    -3283.402471 ->    -3282.319917,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3250.330064 ->    -3247.855593,    0 swap  done
+Process 15811 : Log(lk) :    -3277.877399 ->    -3274.816587,    0 swap  done
+Process 15810 : Log(lk) :    -3247.855593 ->    -3247.588687,    0 swap  done
+Process 15811 : Log(lk) :    -3274.860138 ->    -3274.274217,    0 swap  done
+Process 15810 : Log(lk) :    -3247.588687 ->    -3247.527772,    0 swap  done
+Process 15810 : Log(lk) :    -3247.527772 ->    -3247.501692,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3274.278313 ->    -3273.927094,    0 swap  done
+Process 15811 : Log(lk) :    -3273.880656 ->    -3273.809758,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3247.290949 ->    -3247.191428,    0 swap  done
+Process 15811 : Log(lk) :    -3249.689818 ->    -3249.264546,    0 swap  done
+Process 15810 : Log(lk) :    -3247.191428 ->    -3247.165415,    0 swap  done
+Process 15811 : Log(lk) :    -3249.185090 ->    -3249.131398,    0 swap  done
+Process 15810 : Log(lk) :    -3247.165415 ->    -3247.151930,    0 swap  done
+Process 15810 : Log(lk) :    -3247.151930 ->    -3247.143277,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3249.108226 ->    -3249.107843,    0 swap  done
+Process 15811 : Log(lk) :    -3249.106659 ->    -3249.104615,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3247.112371 ->    -3247.091876,    0 swap  done
+Process 15811 : Log(lk) :    -3246.570894 ->    -3246.524347,    0 swap  done
+Process 15810 : Log(lk) :    -3246.593991 ->    -3246.463680,    0 swap  done
+Process 15811 : Log(lk) :    -3246.524347 ->    -3246.518922,    0 swap  done
+Process 15810 : Log(lk) :    -3246.414913 ->    -3246.375176,    0 swap  done
+Process 15810 : Log(lk) :    -3246.375176 ->    -3246.349562,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3246.416231 ->    -3246.399654,    0 swap  done
+Process 15811 : Log(lk) :    -3246.344256 ->    -3246.334257,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+
+	The server has finished distributing the trees
+
+Initial likelihood vector read from tree 0
+Initial likelihood vector read from tree 1
+			Initial Log-likelihood of the multiTrees model : -3286.319198
+current_loglk : -3286.319198
+stuck here 1
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3286.319198
+stuck here 2
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3286.319198
+stuck here 3
+
+			New log-likelihood of the multiTrees model :-3286.319198 -> -3283.004115
+current_loglk : -3283.004115
+stuck here 4
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3283.004115
+stuck here 5
+
+			New log-likelihood of the multiTrees model :-3283.004115 -> -3282.554352
+current_loglk : -3282.554352
+stuck here 6
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3282.554352
+stuck here 7
+
+			New log-likelihood of the multiTrees model :-3282.554352 -> -3250.330064
+current_loglk : -3250.330064
+stuck here 8
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3250.330064
+stuck here 9
+
+			New log-likelihood of the multiTrees model :-3250.330064 -> -3247.855593
+
+step : 10 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3247.855593
+stuck here 10
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.855593
+stuck here 11
+
+			New log-likelihood of the multiTrees model :-3247.855593 -> -3247.588687
+current_loglk : -3247.588687
+stuck here 12
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.588687
+stuck here 13
+
+			New log-likelihood of the multiTrees model :-3247.588687 -> -3247.527772
+current_loglk : -3247.527772
+stuck here 14
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.527772
+stuck here 15
+
+			New log-likelihood of the multiTrees model :-3247.527772 -> -3247.290949
+current_loglk : -3247.290949
+stuck here 16
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.290949
+stuck here 17
+
+			New log-likelihood of the multiTrees model :-3247.290949 -> -3247.191428
+current_loglk : -3247.191428
+stuck here 18
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.191428
+stuck here 19
+
+			New log-likelihood of the multiTrees model :-3247.191428 -> -3247.165415
+
+step : 20 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3247.165415
+stuck here 20
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.165415
+stuck here 21
+
+			New log-likelihood of the multiTrees model :-3247.165415 -> -3247.151930
+current_loglk : -3247.151930
+stuck here 22
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3247.151930
+stuck here 23
+
+			New log-likelihood of the multiTrees model :-3247.151930 -> -3247.112371
+current_loglk : -3247.112371
+stuck here 24
+
+			New log-likelihood of the multiTrees model :-3247.112371 -> -3246.570894
+current_loglk : -3246.570894
+stuck here 25
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3246.570894
+stuck here 26
+
+			New log-likelihood of the multiTrees model :-3246.570894 -> -3246.524347
+current_loglk : -3246.524347
+stuck here 27
+
+			New log-likelihood of the multiTrees model :-3246.524347 -> -3246.414913
+current_loglk : -3246.414913
+stuck here 28
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3246.414913
+stuck here 29
+
+			New log-likelihood of the multiTrees model :-3246.414913 -> -3246.375176
+
+step : 30 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3246.375176
+stuck here 30
+
+			New log-likelihood of the multiTrees model :-3246.375176 -> -3246.344256
+current_loglk : -3246.344256
+stuck here 3Process 15811 : Log(lk) :    -3246.174289 ->    -3246.155854,    0 swap  done
+Process 15810 : Log(lk) :    -3246.244918 ->    -3246.210620,    0 swap  done
+Process 15811 : Log(lk) :    -3246.126391 ->    -3246.066550,    0 swap  done
+Process 15810 : Log(lk) :    -3246.068048 ->    -3246.043355,    0 swap  done
+Process 15811 : Log(lk) :    -3246.028713 ->    -3246.008995,    0 swap  done
+Process 15811 : Log(lk) :    -3245.988615 ->    -3245.983409,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3246.016779 ->    -3245.990936,    0 swap  done
+Process 15810 : Log(lk) :    -3245.968785 ->    -3245.941720,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.959029 ->    -3245.952539,    0 swap  done
+Process 15811 : Log(lk) :    -3245.809605 ->    -3245.784321,    0 swap  done
+Process 15810 : Log(lk) :    -3245.809410 ->    -3245.794867,    0 swap  done
+Process 15811 : Log(lk) :    -3245.759613 ->    -3245.754938,    0 swap  done
+Process 15811 : Log(lk) :    -3245.754938 ->    -3245.754518,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3245.794867 ->    -3245.785686,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.742322 ->    -3245.711137,    0 swap  done
+Process 15810 : Log(lk) :    -3245.711137 ->    -3245.697808,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.675623 ->    -3245.651759,    0 swap  done
+Process 15811 : Log(lk) :    -3245.651759 ->    -3245.650432,    0 swap  done
+Process 15810 : Log(lk) :    -3245.595048 ->    -3245.567409,    0 swap  done
+Process 15811 : Log(lk) :    -3245.591733 ->    -3245.586491,    0 swap  done
+Process 15811 : Log(lk) :    -3245.566975 ->    -3245.539861,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3245.561502 ->    -3245.549978,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.549978 ->    -3245.543605,    0 swap  done
+Process 15810 : Log(lk) :    -3245.543605 ->    -3245.539583,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.509306 ->    -3245.499332,    0 swap  done
+Process 15811 : Log(lk) :    -3245.499332 ->    -3245.498402,    0 swap  done
+Process 15810 : Log(lk) :    -3245.442206 ->    -3245.415140,    0 swap  done
+Process 15811 : Log(lk) :    -3245.441487 ->    -3245.441242,    0 swap  done
+Process 15811 : Log(lk) :    -3245.412211 ->    -3245.396593,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3245.412048 ->    -3245.400376,    0 swap  done
+1
+
+			New log-likelihood of the multiTrees model :-3246.344256 -> -3246.244918
+current_loglk : -3246.244918
+stuck here 32
+
+			New log-likelihood of the multiTrees model :-3246.244918 -> -3246.181607
+current_loglk : -3246.181607
+stuck here 33
+
+			New log-likelihood of the multiTrees model :-3246.181607 -> -3246.126391
+current_loglk : -3246.126391
+stuck here 34
+
+			New log-likelihood of the multiTrees model :-3246.126391 -> -3246.068048
+current_loglk : -3246.068048
+stuck here 35
+
+			New log-likelihood of the multiTrees model :-3246.068048 -> -3246.028713
+current_loglk : -3246.028713
+stuck here 36
+
+			New log-likelihood of the multiTrees model :-3246.028713 -> -3246.016779
+current_loglk : -3246.016779
+stuck here 37
+
+			New log-likelihood of the multiTrees model :-3246.016779 -> -3245.988615
+current_loglk : -3245.988615
+stuck here 38
+
+			New log-likelihood of the multiTrees model :-3245.988615 -> -3245.968785
+current_loglk : -3245.968785
+stuck here 39
+
+			New log-likelihood of the multiTrees model :-3245.968785 -> -3245.959029
+
+step : 40 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3245.959029
+stuck here 40
+
+			New log-likelihood of the multiTrees model :-3245.959029 -> -3245.809410
+current_loglk : -3245.809410
+stuck here 41
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3245.809410
+stuck here 42
+
+			New log-likelihood of the multiTrees model :-3245.809410 -> -3245.794867
+current_loglk : -3245.794867
+stuck here 43
+
+			New log-likelihood of the multiTrees model :-3245.794867 -> -3245.759613
+current_loglk : -3245.759613
+stuck here 44
+
+			New log-likelihood of the multiTrees model :-3245.759613 -> -3245.754938
+current_loglk : -3245.754938
+stuck here 45
+
+			New log-likelihood of the multiTrees model :-3245.754938 -> -3245.742322
+current_loglk : -3245.742322
+stuck here 46
+
+			New log-likelihood of the multiTrees model :-3245.742322 -> -3245.711137
+current_loglk : -3245.711137
+stuck here 47
+
+			New log-likelihood of the multiTrees model :-3245.711137 -> -3245.675623
+current_loglk : -3245.675623
+stuck here 48
+
+			New log-likelihood of the multiTrees model :-3245.675623 -> -3245.651759
+current_loglk : -3245.651759
+stuck here 49
+
+			New log-likelihood of the multiTrees model :-3245.651759 -> -3245.595048
+
+step : 50 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3245.595048
+stuck here 50
+
+			New log-likelihood of the multiTrees model :-3245.595048 -> -3245.591733
+current_loglk : -3245.591733
+stuck here 51
+
+			New log-likelihood of the multiTrees model :-3245.591733 -> -3245.561502
+current_loglk : -3245.561502
+stuck here 52
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3245.561502
+stuck here 53
+
+			New log-likelihood of the multiTrees model :-3245.561502 -> -3245.549978
+current_loglk : -3245.549978
+stuck here 54
+
+			New log-likelihood of the multiTrees model :-3245.549978 -> -3245.543605
+current_loglk : -3245.543605
+stuck here 55
+
+			New log-likelihood of the multiTrees model :-3245.543605 -> -3245.509306
+current_loglk : -3245.509306
+stuck here 56
+
+			New log-likelihood of the multiTrees model :-3245.509306 -> -3245.499332
+current_loglk : -3245.499332
+stuck here 57
+
+			New log-likelihood of the multiTrees model :-3245.499332 -> -3245.442206
+current_loglk : -3245.442206
+stuck here 58
+
+			New log-likelihood of the multiTrees model :-3245.442206 -> -3245.441487
+current_loglk : -3245.441487
+stuck here 59
+
+			New log-likelihood of the multiTrees model :-3245.441487 -> -3245.412048
+
+step : 60 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3245.412048
+stuck here 60
+
+			The likelihood has not increased after reading a new likelihood vector
+current_loglk : -3245.412048
+stuck here 61
+
+			New log-likelihood of the multiTrees model :-3245.412048 -> -3245.400376
+current_loglk : -3245.400376
+stuck here 62
+
+			New log-likelihood of the multiTrees model :-3245.400376 -> -3245.394202
+current_logl
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.400376 ->    -3245.394202,    0 swap  done
+Process 15810 : Log(lk) :    -3245.394202 ->    -3245.390380,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.359046 ->    -3245.346229,    0 swap  done
+Process 15811 : Log(lk) :    -3245.346229 ->    -3245.344906,    0 swap  done
+Process 15810 : Log(lk) :    -3245.308672 ->    -3245.290698,    0 swap  done
+Process 15811 : Log(lk) :    -3245.307101 ->    -3245.306699,    0 swap  done
+Process 15811 : Log(lk) :    -3245.286390 ->    -3245.272830,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3245.287253 ->    -3245.279561,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.277765 ->    -3245.273030,    0 swap  done
+Process 15810 : Log(lk) :    -3245.273030 ->    -3245.270155,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.251617 ->    -3245.240804,    0 swap  done
+Process 15811 : Log(lk) :    -3245.240804 ->    -3245.239687,    0 swap  done
+Process 15810 : Log(lk) :    -3245.205111 ->    -3245.188202,    0 swap  done
+Process 15811 : Log(lk) :    -3245.203612 ->    -3245.203186,    0 swap  done
+Process 15811 : Log(lk) :    -3245.183442 ->    -3245.170194,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.184960 ->    -3245.178843,    0 swap  done
+Process 15810 : Log(lk) :    -3245.176635 ->    -3245.172942,    0 swap  done
+Process 15810 : Log(lk) :    -3245.172942 ->    -3245.170824,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.149775 ->    -3245.139962,    0 swap  done
+Process 15811 : Log(lk) :    -3245.139962 ->    -3245.138910,    0 swap  done
+Process 15811 : Log(lk) :    -3245.113786 ->    -3245.113374,    0 swap  done
+Process 15811 : Log(lk) :    -3245.113374 ->    -3245.113328,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3245.115219 ->    -3245.101554,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.097922 ->    -3245.092304,    0 swap  done
+Process 15810 : Log(lk) :    -3245.092304 ->    -3245.089858,    0 swap  done
+Process 15810 : Log(lk) :    -3245.089858 ->    -3245.088483,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3245.082025 ->    -3245.066754,    0 swap  done
+Process 15811 : Log(lk) :    -3245.066754 ->    -3245.065444,    0 swap  done
+Process 15810 : Log(lk) :    -3245.042013 ->    -3245.031603,    0 swap  done
+Process 15811 : Log(lk) :    -3245.040154 ->    -3245.039564,    0 swap  done
+Process 15811 : Log(lk) :    -3245.009428 ->    -3244.998421,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3245.011691 ->    -3245.006686,    0 swap  done
+k : -3245.394202
+stuck here 63
+
+			New log-likelihood of the multiTrees model :-3245.394202 -> -3245.359046
+current_loglk : -3245.359046
+stuck here 64
+
+			New log-likelihood of the multiTrees model :-3245.359046 -> -3245.346229
+current_loglk : -3245.346229
+stuck here 65
+
+			New log-likelihood of the multiTrees model :-3245.346229 -> -3245.308672
+current_loglk : -3245.308672
+stuck here 66
+
+			New log-likelihood of the multiTrees model :-3245.308672 -> -3245.307101
+current_loglk : -3245.307101
+stuck here 67
+
+			New log-likelihood of the multiTrees model :-3245.307101 -> -3245.287253
+current_loglk : -3245.287253
+stuck here 68
+
+			New log-likelihood of the multiTrees model :-3245.287253 -> -3245.286390
+current_loglk : -3245.286390
+stuck here 69
+
+			New log-likelihood of the multiTrees model :-3245.286390 -> -3245.277765
+
+step : 70 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.010000
+
+current_loglk : -3245.277765
+stuck here 70
+
+			New log-likelihood of the multiTrees model :-3245.277765 -> -3245.273030
+current_loglk : -3245.273030
+stuck here 71
+
+			New log-likelihood of the multiTrees model :-3245.273030 -> -3245.251617
+current_loglk : -3245.251617
+stuck here 72
+
+			New log-likelihood of the multiTrees model :-3245.251617 -> -3245.240804
+current_loglk : -3245.240804
+stuck here 73
+
+			New log-likelihood of the multiTrees model :-3245.240804 -> -3245.205111
+current_loglk : -3245.205111
+stuck here 74
+
+			New log-likelihood of the multiTrees model :-3245.205111 -> -3245.203612
+current_loglk : -3245.203612
+stuck here 75
+
+			New log-likelihood of the multiTrees model :-3245.203612 -> -3245.184960
+current_loglk : -3245.184960
+stuck here 76
+
+			New log-likelihood of the multiTrees model :-3245.184960 -> -3245.183442
+current_loglk : -3245.183442
+stuck here 77
+
+			New log-likelihood of the multiTrees model :-3245.183442 -> -3245.176635
+current_loglk : -3245.176635
+stuck here 78
+
+			New log-likelihood of the multiTrees model :-3245.176635 -> -3245.172942
+current_loglk : -3245.172942
+stuck here 79
+
+			New log-likelihood of the multiTrees model :-3245.172942 -> -3245.149775
+
+step : 80 : Autocorrelation parameter before optimization : 0.010000 and then after : 0.016660
+
+current_loglk : -3245.149775
+stuck here 80
+
+			New log-likelihood of the multiTrees model :-3245.149775 -> -3245.139578
+current_loglk : -3245.139578
+stuck here 81
+
+			New log-likelihood of the multiTrees model :-3245.139578 -> -3245.115219
+current_loglk : -3245.115219
+stuck here 82
+
+			New log-likelihood of the multiTrees model :-3245.115219 -> -3245.113786
+current_loglk : -3245.113786
+stuck here 83
+
+			New log-likelihood of the multiTrees model :-3245.113786 -> -3245.113374
+current_loglk : -3245.113374
+stuck here 84
+
+			New log-likelihood of the multiTrees model :-3245.113374 -> -3245.097922
+current_loglk : -3245.097922
+stuck here 85
+
+			New log-likelihood of the multiTrees model :-3245.097922 -> -3245.092304
+current_loglk : -3245.092304
+stuck here 86
+
+			New log-likelihood of the multiTrees model :-3245.092304 -> -3245.089858
+current_loglk : -3245.089858
+stuck here 87
+
+			New log-likelihood of the multiTrees model :-3245.089858 -> -3245.082025
+current_loglk : -3245.082025
+stuck here 88
+
+			New log-likelihood of the multiTrees model :-3245.082025 -> -3245.066754
+current_loglk : -3245.066754
+stuck here 89
+
+			New log-likelihood of the multiTrees model :-3245.066754 -> -3245.042013
+
+step : 90 : Autocorrelation parameter before optimization : 0.016660 and then after : 0.109341
+
+current_loglk : -3245.042013
+stuck here 90
+
+			New log-likelihood of the multiTrees model :-3245.042013 -> -3245.024486
+current_loglk : -3245.024486
+stuck here 91
+
+			New log-likelihood of the multiTrees model :-3245.024486 -> -3245.011691
+current_loglk : -3245.011691
+stuck here 92
+
+			New log-likelihood of the multiTrees model :-3245.011691 -> -3245.009428
+current_loglk : -3245.009428
+stuck here 93
+
+			New log-likelihood of the multiTrees model :-3245.009428 -> -3245.003533
+current_loglk : -3245.003533
+stuck here 94
+
+			New log-likelihood of the multiTrees model :-3245.Process 15810 : Log(lk) :    -3245.003533 ->    -3245.001080,    0 swap  done
+Process 15810 : Log(lk) :    -3245.001080 ->    -3244.999832,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3244.974901 ->    -3244.960194,    0 swap  done
+Process 15811 : Log(lk) :    -3244.960194 ->    -3244.958509,    0 swap  done
+Process 15811 : Log(lk) :    -3244.958509 ->    -3244.958305,    0 swap  done
+Process 15811 : Log(lk) :    -3244.916824 ->    -3244.915825,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3244.917541 ->    -3244.899168,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3244.897402 ->    -3244.893107,    0 swap  done
+Process 15810 : Log(lk) :    -3244.865286 ->    -3244.859827,    0 swap  done
+Process 15810 : Log(lk) :    -3244.859827 ->    -3244.857258,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3244.833492 ->    -3244.796739,    0 swap  done
+Process 15811 : Log(lk) :    -3244.796739 ->    -3244.792338,    0 swap  done
+Process 15811 : Log(lk) :    -3244.792338 ->    -3244.791811,    0 swap  done
+Process 15811 : Log(lk) :    -3244.712434 ->    -3244.709238,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3244.714357 ->    -3244.685665,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3244.681400 ->    -3244.672775,    0 swap  done
+Process 15810 : Log(lk) :    -3244.672775 ->    -3244.668197,    0 swap  done
+Process 15810 : Log(lk) :    -3244.402531 ->    -3244.371347,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3244.624753 ->    -3244.594788,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3244.329793 ->    -3244.252417,    0 swap  done
+Process 15811 : Log(lk) :    -3244.252417 ->    -3244.245781,    0 swap  done
+Process 15811 : Log(lk) :    -3243.883614 ->    -3243.849538,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3243.908105 ->    -3243.831910,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3243.796343 ->    -3243.776883,    0 swap  done
+Process 15810 : Log(lk) :    -3243.776883 ->    -3243.769110,    0 swap  done
+Process 15810 : Log(lk) :    -3243.545813 ->    -3243.535728,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3243.553831 ->    -3243.486008,    0 swap  done
+Process 15811 : Log(lk) :    -3243.471468 ->    -3243.461554,    0 swap  done
+Process 15810 : Log(lk) :    -3243.268999 ->    -3243.220707,    0 swap  done
+Process 15811 : Log(lk) :    -3243.437847 ->    -3243.435485,    0 swap  done
+Process 15811 : Log(lk) :    -3243.263688 ->    -3243.256315,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3243.210451 ->    -3243.201215,    0 swap  done
+003533 -> -3245.001080
+current_loglk : -3245.001080
+stuck here 95
+
+			New log-likelihood of the multiTrees model :-3245.001080 -> -3244.974901
+current_loglk : -3244.974901
+stuck here 96
+
+			New log-likelihood of the multiTrees model :-3244.974901 -> -3244.960194
+current_loglk : -3244.960194
+stuck here 97
+
+			New log-likelihood of the multiTrees model :-3244.960194 -> -3244.958509
+current_loglk : -3244.958509
+stuck here 98
+
+			New log-likelihood of the multiTrees model :-3244.958509 -> -3244.917541
+current_loglk : -3244.917541
+stuck here 99
+
+			New log-likelihood of the multiTrees model :-3244.917541 -> -3244.916824
+
+step : 100 : Autocorrelation parameter before optimization : 0.109341 and then after : 0.254963
+
+current_loglk : -3244.916824
+stuck here 100
+
+			New log-likelihood of the multiTrees model :-3244.916824 -> -3244.872311
+current_loglk : -3244.872311
+stuck here 101
+
+			New log-likelihood of the multiTrees model :-3244.872311 -> -3244.865286
+current_loglk : -3244.865286
+stuck here 102
+
+			New log-likelihood of the multiTrees model :-3244.865286 -> -3244.859827
+current_loglk : -3244.859827
+stuck here 103
+
+			New log-likelihood of the multiTrees model :-3244.859827 -> -3244.833492
+current_loglk : -3244.833492
+stuck here 104
+
+			New log-likelihood of the multiTrees model :-3244.833492 -> -3244.796739
+current_loglk : -3244.796739
+stuck here 105
+
+			New log-likelihood of the multiTrees model :-3244.796739 -> -3244.792338
+current_loglk : -3244.792338
+stuck here 106
+
+			New log-likelihood of the multiTrees model :-3244.792338 -> -3244.714357
+current_loglk : -3244.714357
+stuck here 107
+
+			New log-likelihood of the multiTrees model :-3244.714357 -> -3244.712434
+current_loglk : -3244.712434
+stuck here 108
+
+			New log-likelihood of the multiTrees model :-3244.712434 -> -3244.681400
+current_loglk : -3244.681400
+stuck here 109
+
+			New log-likelihood of the multiTrees model :-3244.681400 -> -3244.672775
+
+step : 110 : Autocorrelation parameter before optimization : 0.254963 and then after : 0.676758
+
+current_loglk : -3244.672775
+stuck here 110
+
+			New log-likelihood of the multiTrees model :-3244.672775 -> -3244.410329
+current_loglk : -3244.410329
+stuck here 111
+
+			New log-likelihood of the multiTrees model :-3244.410329 -> -3244.402531
+current_loglk : -3244.402531
+stuck here 112
+
+			New log-likelihood of the multiTrees model :-3244.402531 -> -3244.329793
+current_loglk : -3244.329793
+stuck here 113
+
+			New log-likelihood of the multiTrees model :-3244.329793 -> -3244.252417
+current_loglk : -3244.252417
+stuck here 114
+
+			New log-likelihood of the multiTrees model :-3244.252417 -> -3243.908105
+current_loglk : -3243.908105
+stuck here 115
+
+			New log-likelihood of the multiTrees model :-3243.908105 -> -3243.883614
+current_loglk : -3243.883614
+stuck here 116
+
+			New log-likelihood of the multiTrees model :-3243.883614 -> -3243.796343
+current_loglk : -3243.796343
+stuck here 117
+
+			New log-likelihood of the multiTrees model :-3243.796343 -> -3243.776883
+current_loglk : -3243.776883
+stuck here 118
+
+			New log-likelihood of the multiTrees model :-3243.776883 -> -3243.553831
+current_loglk : -3243.553831
+stuck here 119
+
+			New log-likelihood of the multiTrees model :-3243.553831 -> -3243.545813
+
+step : 120 : Autocorrelation parameter before optimization : 0.676758 and then after : 0.719608
+
+current_loglk : -3243.545813
+stuck here 120
+
+			New log-likelihood of the multiTrees model :-3243.545813 -> -3243.446822
+current_loglk : -3243.446822
+stuck here 121
+
+			New log-likelihood of the multiTrees model :-3243.446822 -> -3243.437847
+current_loglk : -3243.437847
+stuck here 122
+
+			New log-likelihood of the multiTrees model :-3243.437847 -> -3243.268999
+current_loglk : -3243.268999
+stuck here 123
+
+			New log-likelihood of the multiTrees model :-3243.268999 -> -3243.263688
+current_loglk : -3243.263688
+stuck here 124
+
+			New log-likelihood of the multiTrees model :-3243.263688 -> -3243.210451
+current_loglk : -3243.210451
+stuck here 125
+
+			New log-likelihood of the multiTrees model :-3243.210451 -> -3243.201215
+current_loglk : -3243.201215
+stucProcess 15810 : Log(lk) :    -3243.201215 ->    -3243.196611,    0 swap  done
+Process 15810 : Log(lk) :    -3243.196611 ->    -3243.193599,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3243.122609 ->    -3243.087779,    0 swap  done
+Process 15811 : Log(lk) :    -3243.087779 ->    -3243.085070,    0 swap  done
+Process 15810 : Log(lk) :    -3243.047066 ->    -3243.030116,    0 swap  done
+Process 15811 : Log(lk) :    -3243.039180 ->    -3243.029848,    0 swap  done
+Process 15811 : Log(lk) :    -3243.012182 ->    -3243.005795,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3243.019095 ->    -3243.014451,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3243.006240 ->    -3243.001599,    0 swap  done
+Process 15810 : Log(lk) :    -3243.001599 ->    -3242.999036,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.984049 ->    -3242.972830,    0 swap  done
+Process 15810 : Log(lk) :    -3242.937342 ->    -3242.926446,    0 swap  done
+Process 15811 : Log(lk) :    -3242.972830 ->    -3242.971774,    0 swap  done
+Process 15810 : Log(lk) :    -3242.926446 ->    -3242.924357,    0 swap  done
+Process 15811 : Log(lk) :    -3242.922529 ->    -3242.913649,    0 swap  done
+Process 15811 : Log(lk) :    -3242.905069 ->    -3242.903033,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.920069 ->    -3242.918301,    0 swap  done
+Process 15810 : Log(lk) :    -3242.902055 ->    -3242.897850,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.885615 ->    -3242.882539,    0 swap  done
+Process 15810 : Log(lk) :    -3242.873769 ->    -3242.870921,    0 swap  done
+Process 15811 : Log(lk) :    -3242.867505 ->    -3242.863689,    0 swap  done
+Process 15810 : Log(lk) :    -3242.864782 ->    -3242.862045,    0 swap  done
+Process 15811 : Log(lk) :    -3242.861384 ->    -3242.860993,    0 swap  done
+Process 15811 : Log(lk) :    -3242.856693 ->    -3242.856214,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3242.857273 ->    -3242.854502,    0 swap  done
+Process 15810 : Log(lk) :    -3242.853644 ->    -3242.851640,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.832860 ->    -3242.829231,    0 swap  done
+Process 15811 : Log(lk) :    -3242.842500 ->    -3242.839192,    0 swap  done
+Process 15810 : Log(lk) :    -3242.829231 ->    -3242.827098,    0 swap  done
+k here 126
+
+			New log-likelihood of the multiTrees model :-3243.201215 -> -3243.196611
+current_loglk : -3243.196611
+stuck here 127
+
+			New log-likelihood of the multiTrees model :-3243.196611 -> -3243.122609
+current_loglk : -3243.122609
+stuck here 128
+
+			New log-likelihood of the multiTrees model :-3243.122609 -> -3243.087779
+current_loglk : -3243.087779
+stuck here 129
+
+			New log-likelihood of the multiTrees model :-3243.087779 -> -3243.047066
+
+step : 130 : Autocorrelation parameter before optimization : 0.719608 and then after : 0.709663
+
+current_loglk : -3243.047066
+stuck here 130
+
+			New log-likelihood of the multiTrees model :-3243.047066 -> -3243.037151
+current_loglk : -3243.037151
+stuck here 131
+
+			New log-likelihood of the multiTrees model :-3243.037151 -> -3243.019095
+current_loglk : -3243.019095
+stuck here 132
+
+			New log-likelihood of the multiTrees model :-3243.019095 -> -3243.012182
+current_loglk : -3243.012182
+stuck here 133
+
+			New log-likelihood of the multiTrees model :-3243.012182 -> -3243.006240
+current_loglk : -3243.006240
+stuck here 134
+
+			New log-likelihood of the multiTrees model :-3243.006240 -> -3243.001599
+current_loglk : -3243.001599
+stuck here 135
+
+			New log-likelihood of the multiTrees model :-3243.001599 -> -3242.984049
+current_loglk : -3242.984049
+stuck here 136
+
+			New log-likelihood of the multiTrees model :-3242.984049 -> -3242.972830
+current_loglk : -3242.972830
+stuck here 137
+
+			New log-likelihood of the multiTrees model :-3242.972830 -> -3242.937342
+current_loglk : -3242.937342
+stuck here 138
+
+			New log-likelihood of the multiTrees model :-3242.937342 -> -3242.926446
+current_loglk : -3242.926446
+stuck here 139
+
+			New log-likelihood of the multiTrees model :-3242.926446 -> -3242.922529
+
+step : 140 : Autocorrelation parameter before optimization : 0.709663 and then after : 0.693065
+
+current_loglk : -3242.922529
+stuck here 140
+
+			New log-likelihood of the multiTrees model :-3242.922529 -> -3242.914662
+current_loglk : -3242.914662
+stuck here 141
+
+			New log-likelihood of the multiTrees model :-3242.914662 -> -3242.905069
+current_loglk : -3242.905069
+stuck here 142
+
+			New log-likelihood of the multiTrees model :-3242.905069 -> -3242.902055
+current_loglk : -3242.902055
+stuck here 143
+
+			New log-likelihood of the multiTrees model :-3242.902055 -> -3242.885615
+current_loglk : -3242.885615
+stuck here 144
+
+			New log-likelihood of the multiTrees model :-3242.885615 -> -3242.873769
+current_loglk : -3242.873769
+stuck here 145
+
+			New log-likelihood of the multiTrees model :-3242.873769 -> -3242.867505
+current_loglk : -3242.867505
+stuck here 146
+
+			New log-likelihood of the multiTrees model :-3242.867505 -> -3242.864782
+current_loglk : -3242.864782
+stuck here 147
+
+			New log-likelihood of the multiTrees model :-3242.864782 -> -3242.861384
+current_loglk : -3242.861384
+stuck here 148
+
+			New log-likelihood of the multiTrees model :-3242.861384 -> -3242.857273
+current_loglk : -3242.857273
+stuck here 149
+
+			New log-likelihood of the multiTrees model :-3242.857273 -> -3242.856693
+
+step : 150 : Autocorrelation parameter before optimization : 0.693065 and then after : 0.673894
+
+current_loglk : -3242.856693
+stuck here 150
+
+			New log-likelihood of the multiTrees model :-3242.856693 -> -3242.846178
+current_loglk : -3242.846178
+stuck here 151
+
+			New log-likelihood of the multiTrees model :-3242.846178 -> -3242.842500
+current_loglk : -3242.842500
+stuck here 152
+
+			New log-likelihood of the multiTrees model :-3242.842500 -> -3242.832860
+current_loglk : -3242.832860
+stuck here 153
+
+			New log-likelihood of the multiTrees model :-3242.832860 -> -3242.829231
+current_loglk : -3242.829231
+stuck here 154
+
+			New log-likelihood of the multiTrees model :-3242.829231 -> -3242.823127
+current_loglk : -3242.823127
+stuck here 155
+
+			New log-likelihood of the multiTrees model :-3242.823127 -> -3242.820773
+current_loglk : -3242.820773
+stuck here 156
+
+			New log-likelihood of the multiTrees model :-3242.820773 -> -3242.818118
+current_loglk : -3242.818118
+stuck here 157
+
+			New log-likelihood of the multiTreesProcess 15811 : Log(lk) :    -3242.823127 ->    -3242.820606,    0 swap  done
+Process 15810 : Log(lk) :    -3242.820773 ->    -3242.817930,    0 swap  done
+Process 15810 : Log(lk) :    -3242.813818 ->    -3242.811167,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.818118 ->    -3242.817676,    0 swap  done
+Process 15811 : Log(lk) :    -3242.812967 ->    -3242.812223,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.808867 ->    -3242.806389,    0 swap  done
+Process 15810 : Log(lk) :    -3242.806389 ->    -3242.804754,    0 swap  done
+Process 15811 : Log(lk) :    -3242.794105 ->    -3242.790599,    0 swap  done
+Process 15810 : Log(lk) :    -3242.791771 ->    -3242.789165,    0 swap  done
+Process 15810 : Log(lk) :    -3242.783753 ->    -3242.780778,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.787621 ->    -3242.786980,    0 swap  done
+Process 15811 : Log(lk) :    -3242.782577 ->    -3242.781940,    0 swap  done
+Process 15811 : Log(lk) :    -3242.781940 ->    -3242.781891,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.776288 ->    -3242.772510,    0 swap  done
+Process 15810 : Log(lk) :    -3242.772510 ->    -3242.770148,    0 swap  done
+Process 15810 : Log(lk) :    -3242.770148 ->    -3242.768463,    0 swap  done
+Process 15810 : Log(lk) :    -3242.762481 ->    -3242.760505,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.768506 ->    -3242.765836,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.758311 ->    -3242.757008,    0 swap  done
+Process 15811 : Log(lk) :    -3242.757008 ->    -3242.756893,    0 swap  done
+Process 15811 : Log(lk) :    -3242.754267 ->    -3242.754066,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3242.754378 ->    -3242.749573,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.749066 ->    -3242.746106,    0 swap  done
+Process 15810 : Log(lk) :    -3242.746106 ->    -3242.744063,    0 swap  done
+Process 15810 : Log(lk) :    -3242.744063 ->    -3242.742564,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.742758 ->    -3242.740918,    0 swap  done
+Process 15810 : Log(lk) :    -3242.734990 ->    -3242.732216,    0 swap  done
+Process 15811 : Log(lk) :    -3242.740918 ->    -3242.740747,    0 swap  done
+Process 15810 : Log(lk) :    -3242.731420 ->    -3242.729271,    0 swap  done
+Process 15811 : Log(lk) :    -3242.734510 ->    -3242.734094,    0 swap  done
+Process 15811 : Log(lk) :    -3242.728182 ->    -3242.727388,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.729271 ->    -3242.727688,    0 swap  done
+Process 15810 : Log(lk) :    -3242.726360 ->    -3242.724830,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+ model :-3242.818118 -> -3242.813818
+current_loglk : -3242.813818
+stuck here 158
+
+			New log-likelihood of the multiTrees model :-3242.813818 -> -3242.812967
+current_loglk : -3242.812967
+stuck here 159
+
+			New log-likelihood of the multiTrees model :-3242.812967 -> -3242.808867
+
+step : 160 : Autocorrelation parameter before optimization : 0.673894 and then after : 0.656317
+
+current_loglk : -3242.808867
+stuck here 160
+
+			New log-likelihood of the multiTrees model :-3242.808867 -> -3242.800824
+current_loglk : -3242.800824
+stuck here 161
+
+			New log-likelihood of the multiTrees model :-3242.800824 -> -3242.794105
+current_loglk : -3242.794105
+stuck here 162
+
+			New log-likelihood of the multiTrees model :-3242.794105 -> -3242.791771
+current_loglk : -3242.791771
+stuck here 163
+
+			New log-likelihood of the multiTrees model :-3242.791771 -> -3242.787621
+current_loglk : -3242.787621
+stuck here 164
+
+			New log-likelihood of the multiTrees model :-3242.787621 -> -3242.783753
+current_loglk : -3242.783753
+stuck here 165
+
+			New log-likelihood of the multiTrees model :-3242.783753 -> -3242.782577
+current_loglk : -3242.782577
+stuck here 166
+
+			New log-likelihood of the multiTrees model :-3242.782577 -> -3242.781940
+current_loglk : -3242.781940
+stuck here 167
+
+			New log-likelihood of the multiTrees model :-3242.781940 -> -3242.776288
+current_loglk : -3242.776288
+stuck here 168
+
+			New log-likelihood of the multiTrees model :-3242.776288 -> -3242.772510
+current_loglk : -3242.772510
+stuck here 169
+
+			New log-likelihood of the multiTrees model :-3242.772510 -> -3242.770148
+
+step : 170 : Autocorrelation parameter before optimization : 0.656317 and then after : 0.641378
+
+current_loglk : -3242.770148
+stuck here 170
+
+			New log-likelihood of the multiTrees model :-3242.770148 -> -3242.764624
+current_loglk : -3242.764624
+stuck here 171
+
+			New log-likelihood of the multiTrees model :-3242.764624 -> -3242.762481
+current_loglk : -3242.762481
+stuck here 172
+
+			New log-likelihood of the multiTrees model :-3242.762481 -> -3242.758311
+current_loglk : -3242.758311
+stuck here 173
+
+			New log-likelihood of the multiTrees model :-3242.758311 -> -3242.757008
+current_loglk : -3242.757008
+stuck here 174
+
+			New log-likelihood of the multiTrees model :-3242.757008 -> -3242.754378
+current_loglk : -3242.754378
+stuck here 175
+
+			New log-likelihood of the multiTrees model :-3242.754378 -> -3242.754267
+current_loglk : -3242.754267
+stuck here 176
+
+			New log-likelihood of the multiTrees model :-3242.754267 -> -3242.749066
+current_loglk : -3242.749066
+stuck here 177
+
+			New log-likelihood of the multiTrees model :-3242.749066 -> -3242.746106
+current_loglk : -3242.746106
+stuck here 178
+
+			New log-likelihood of the multiTrees model :-3242.746106 -> -3242.744063
+current_loglk : -3242.744063
+stuck here 179
+
+			New log-likelihood of the multiTrees model :-3242.744063 -> -3242.742758
+
+step : 180 : Autocorrelation parameter before optimization : 0.641378 and then after : 0.630199
+
+current_loglk : -3242.742758
+stuck here 180
+
+			New log-likelihood of the multiTrees model :-3242.742758 -> -3242.738388
+current_loglk : -3242.738388
+stuck here 181
+
+			New log-likelihood of the multiTrees model :-3242.738388 -> -3242.734990
+current_loglk : -3242.734990
+stuck here 182
+
+			New log-likelihood of the multiTrees model :-3242.734990 -> -3242.734510
+current_loglk : -3242.734510
+stuck here 183
+
+			New log-likelihood of the multiTrees model :-3242.734510 -> -3242.731420
+current_loglk : -3242.731420
+stuck here 184
+
+			New log-likelihood of the multiTrees model :-3242.731420 -> -3242.729271
+current_loglk : -3242.729271
+stuck here 185
+
+			New log-likelihood of the multiTrees model :-3242.729271 -> -3242.728182
+current_loglk : -3242.728182
+stuck here 186
+
+			New log-likelihood of the multiTrees model :-3242.728182 -> -3242.726360
+current_loglk : -3242.726360
+stuck here 187
+
+			New log-likelihood of the multiTrees model :-3242.726360 -> -3242.725205
+current_loglk : -3242.725205
+stuck here 188
+
+			New log-likelihood of the multiTrees model :-3242.725205 -> -3242.722153
+current_loglk Process 15811 : Log(lk) :    -3242.725205 ->    -3242.724940,    0 swap  done
+Process 15810 : Log(lk) :    -3242.722153 ->    -3242.720342,    0 swap  done
+Process 15810 : Log(lk) :    -3242.719610 ->    -3242.718058,    0 swap  done
+Process 15811 : Log(lk) :    -3242.721649 ->    -3242.721441,    0 swap  done
+Process 15810 : Log(lk) :    -3242.715252 ->    -3242.713406,    0 swap  done
+Process 15810 : Log(lk) :    -3242.713406 ->    -3242.712053,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3242.717225 ->    -3242.716755,    0 swap  done
+Process 15811 : Log(lk) :    -3242.712340 ->    -3242.711719,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.710789 ->    -3242.709327,    0 swap  done
+Process 15811 : Log(lk) :    -3242.709470 ->    -3242.709324,    0 swap  done
+Process 15810 : Log(lk) :    -3242.707653 ->    -3242.706247,    0 swap  done
+Process 15810 : Log(lk) :    -3242.705824 ->    -3242.704578,    0 swap  done
+Process 15811 : Log(lk) :    -3242.707373 ->    -3242.707183,    0 swap  done
+Process 15810 : Log(lk) :    -3242.702865 ->    -3242.701404,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.705494 ->    -3242.705348,    0 swap  done
+Process 15811 : Log(lk) :    -3242.702509 ->    -3242.702276,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.700539 ->    -3242.699214,    0 swap  done
+Process 15810 : Log(lk) :    -3242.699214 ->    -3242.698234,    0 swap  done
+Process 15811 : Log(lk) :    -3242.698464 ->    -3242.698055,    0 swap  done
+Process 15810 : Log(lk) :    -3242.697351 ->    -3242.696398,    0 swap  done
+Process 15810 : Log(lk) :    -3242.695622 ->    -3242.694624,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.696763 ->    -3242.696626,    0 swap  done
+Process 15811 : Log(lk) :    -3242.695371 ->    -3242.695273,    0 swap  done
+Process 15811 : Log(lk) :    -3242.695273 ->    -3242.695264,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.693219 ->    -3242.691891,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.691891 ->    -3242.690917,    0 swap  done
+Process 15810 : Log(lk) :    -3242.690917 ->    -3242.690168,    0 swap  done
+Process 15810 : Log(lk) :    -3242.689880 ->    -3242.689273,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.690646 ->    -3242.690030,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.689085 ->    -3242.688942,    0 swap  done
+: -3242.722153
+stuck here 189
+
+			New log-likelihood of the multiTrees model :-3242.722153 -> -3242.721649
+
+step : 190 : Autocorrelation parameter before optimization : 0.630199 and then after : 0.620380
+
+current_loglk : -3242.721649
+stuck here 190
+
+			New log-likelihood of the multiTrees model :-3242.721649 -> -3242.717784
+current_loglk : -3242.717784
+stuck here 191
+
+			New log-likelihood of the multiTrees model :-3242.717784 -> -3242.717225
+current_loglk : -3242.717225
+stuck here 192
+
+			New log-likelihood of the multiTrees model :-3242.717225 -> -3242.715252
+current_loglk : -3242.715252
+stuck here 193
+
+			New log-likelihood of the multiTrees model :-3242.715252 -> -3242.713406
+current_loglk : -3242.713406
+stuck here 194
+
+			New log-likelihood of the multiTrees model :-3242.713406 -> -3242.712340
+current_loglk : -3242.712340
+stuck here 195
+
+			New log-likelihood of the multiTrees model :-3242.712340 -> -3242.710789
+current_loglk : -3242.710789
+stuck here 196
+
+			New log-likelihood of the multiTrees model :-3242.710789 -> -3242.709470
+current_loglk : -3242.709470
+stuck here 197
+
+			New log-likelihood of the multiTrees model :-3242.709470 -> -3242.707653
+current_loglk : -3242.707653
+stuck here 198
+
+			New log-likelihood of the multiTrees model :-3242.707653 -> -3242.707373
+current_loglk : -3242.707373
+stuck here 199
+
+			New log-likelihood of the multiTrees model :-3242.707373 -> -3242.705824
+
+step : 200 : Autocorrelation parameter before optimization : 0.620380 and then after : 0.612327
+
+current_loglk : -3242.705824
+stuck here 200
+
+			New log-likelihood of the multiTrees model :-3242.705824 -> -3242.704363
+current_loglk : -3242.704363
+stuck here 201
+
+			New log-likelihood of the multiTrees model :-3242.704363 -> -3242.702865
+current_loglk : -3242.702865
+stuck here 202
+
+			New log-likelihood of the multiTrees model :-3242.702865 -> -3242.702509
+current_loglk : -3242.702509
+stuck here 203
+
+			New log-likelihood of the multiTrees model :-3242.702509 -> -3242.700539
+current_loglk : -3242.700539
+stuck here 204
+
+			New log-likelihood of the multiTrees model :-3242.700539 -> -3242.699214
+current_loglk : -3242.699214
+stuck here 205
+
+			New log-likelihood of the multiTrees model :-3242.699214 -> -3242.698464
+current_loglk : -3242.698464
+stuck here 206
+
+			New log-likelihood of the multiTrees model :-3242.698464 -> -3242.697351
+current_loglk : -3242.697351
+stuck here 207
+
+			New log-likelihood of the multiTrees model :-3242.697351 -> -3242.696763
+current_loglk : -3242.696763
+stuck here 208
+
+			New log-likelihood of the multiTrees model :-3242.696763 -> -3242.695622
+current_loglk : -3242.695622
+stuck here 209
+
+			New log-likelihood of the multiTrees model :-3242.695622 -> -3242.695371
+
+step : 210 : Autocorrelation parameter before optimization : 0.612327 and then after : 0.606197
+
+current_loglk : -3242.695371
+stuck here 210
+
+			New log-likelihood of the multiTrees model :-3242.695371 -> -3242.694639
+current_loglk : -3242.694639
+stuck here 211
+
+			New log-likelihood of the multiTrees model :-3242.694639 -> -3242.693219
+current_loglk : -3242.693219
+stuck here 212
+
+			New log-likelihood of the multiTrees model :-3242.693219 -> -3242.691891
+current_loglk : -3242.691891
+stuck here 213
+
+			New log-likelihood of the multiTrees model :-3242.691891 -> -3242.690917
+current_loglk : -3242.690917
+stuck here 214
+
+			New log-likelihood of the multiTrees model :-3242.690917 -> -3242.690646
+current_loglk : -3242.690646
+stuck here 215
+
+			New log-likelihood of the multiTrees model :-3242.690646 -> -3242.689880
+current_loglk : -3242.689880
+stuck here 216
+
+			New log-likelihood of the multiTrees model :-3242.689880 -> -3242.689085
+current_loglk : -3242.689085
+stuck here 217
+
+			New log-likelihood of the multiTrees model :-3242.689085 -> -3242.688942
+current_loglk : -3242.688942
+stuck here 218
+
+			New log-likelihood of the multiTrees model :-3242.688942 -> -3242.688127
+current_loglk : -3242.688127
+stuck here 219
+
+			New log-likelihood of the multiTrees model :-3242.688127 -> -3242.688104
+
+step : 220 : Autocorrelation parameter before optimization : 0.6Process 15810 : Log(lk) :    -3242.688127 ->    -3242.687034,    0 swap  done
+Process 15811 : Log(lk) :    -3242.688942 ->    -3242.688930,    0 swap  done
+Process 15811 : Log(lk) :    -3242.688104 ->    -3242.688078,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.686958 ->    -3242.686165,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.685671 ->    -3242.684949,    0 swap  done
+Process 15810 : Log(lk) :    -3242.684949 ->    -3242.684396,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.684798 ->    -3242.684260,    0 swap  done
+Process 15810 : Log(lk) :    -3242.683528 ->    -3242.682774,    0 swap  done
+Process 15811 : Log(lk) :    -3242.684260 ->    -3242.684214,    0 swap  done
+Process 15810 : Log(lk) :    -3242.682623 ->    -3242.682002,    0 swap  done
+Process 15811 : Log(lk) :    -3242.683460 ->    -3242.683431,    0 swap  done
+Process 15811 : Log(lk) :    -3242.681898 ->    -3242.681737,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.682002 ->    -3242.681523,    0 swap  done
+Process 15810 : Log(lk) :    -3242.681391 ->    -3242.680966,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.680764 ->    -3242.680658,    0 swap  done
+Process 15810 : Log(lk) :    -3242.680190 ->    -3242.679603,    0 swap  done
+Process 15811 : Log(lk) :    -3242.680048 ->    -3242.680012,    0 swap  done
+Process 15810 : Log(lk) :    -3242.679359 ->    -3242.678828,    0 swap  done
+Process 15811 : Log(lk) :    -3242.679280 ->    -3242.679214,    0 swap  done
+Process 15810 : Log(lk) :    -3242.678709 ->    -3242.678240,    0 swap  done
+Process 15811 : Log(lk) :    -3242.678599 ->    -3242.678557,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3242.678087 ->    -3242.677655,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.677647 ->    -3242.677306,    0 swap  done
+Process 15811 : Log(lk) :    -3242.677994 ->    -3242.677959,    0 swap  done
+Process 15810 : Log(lk) :    -3242.677138 ->    -3242.676821,    0 swap  done
+Process 15811 : Log(lk) :    -3242.676785 ->    -3242.676671,    0 swap  done
+Process 15810 : Log(lk) :    -3242.676396 ->    -3242.676042,    0 swap  done
+Process 15810 : Log(lk) :    -3242.675808 ->    -3242.675444,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.676223 ->    -3242.676176,    0 swap  done
+Process 15811 : Log(lk) :    -3242.675721 ->    -3242.675687,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.675302 ->    -3242.674959,    0 swap  done
+06197 and then after : 0.601622
+
+current_loglk : -3242.688104
+stuck here 220
+
+			New log-likelihood of the multiTrees model :-3242.688104 -> -3242.686507
+current_loglk : -3242.686507
+stuck here 221
+
+			New log-likelihood of the multiTrees model :-3242.686507 -> -3242.685671
+current_loglk : -3242.685671
+stuck here 222
+
+			New log-likelihood of the multiTrees model :-3242.685671 -> -3242.684949
+current_loglk : -3242.684949
+stuck here 223
+
+			New log-likelihood of the multiTrees model :-3242.684949 -> -3242.684798
+current_loglk : -3242.684798
+stuck here 224
+
+			New log-likelihood of the multiTrees model :-3242.684798 -> -3242.684260
+current_loglk : -3242.684260
+stuck here 225
+
+			New log-likelihood of the multiTrees model :-3242.684260 -> -3242.683528
+current_loglk : -3242.683528
+stuck here 226
+
+			New log-likelihood of the multiTrees model :-3242.683528 -> -3242.683460
+current_loglk : -3242.683460
+stuck here 227
+
+			New log-likelihood of the multiTrees model :-3242.683460 -> -3242.682623
+current_loglk : -3242.682623
+stuck here 228
+
+			New log-likelihood of the multiTrees model :-3242.682623 -> -3242.682002
+current_loglk : -3242.682002
+stuck here 229
+
+			New log-likelihood of the multiTrees model :-3242.682002 -> -3242.681898
+
+step : 230 : Autocorrelation parameter before optimization : 0.601622 and then after : 0.597265
+
+current_loglk : -3242.681898
+stuck here 230
+
+			New log-likelihood of the multiTrees model :-3242.681898 -> -3242.681047
+current_loglk : -3242.681047
+stuck here 231
+
+			New log-likelihood of the multiTrees model :-3242.681047 -> -3242.680764
+current_loglk : -3242.680764
+stuck here 232
+
+			New log-likelihood of the multiTrees model :-3242.680764 -> -3242.680190
+current_loglk : -3242.680190
+stuck here 233
+
+			New log-likelihood of the multiTrees model :-3242.680190 -> -3242.680048
+current_loglk : -3242.680048
+stuck here 234
+
+			New log-likelihood of the multiTrees model :-3242.680048 -> -3242.679359
+current_loglk : -3242.679359
+stuck here 235
+
+			New log-likelihood of the multiTrees model :-3242.679359 -> -3242.679280
+current_loglk : -3242.679280
+stuck here 236
+
+			New log-likelihood of the multiTrees model :-3242.679280 -> -3242.678709
+current_loglk : -3242.678709
+stuck here 237
+
+			New log-likelihood of the multiTrees model :-3242.678709 -> -3242.678599
+current_loglk : -3242.678599
+stuck here 238
+
+			New log-likelihood of the multiTrees model :-3242.678599 -> -3242.678087
+current_loglk : -3242.678087
+stuck here 239
+
+			New log-likelihood of the multiTrees model :-3242.678087 -> -3242.677647
+
+			New log-likelihood of the multiTrees model :-3242.677647 -> -3242.677501
+
+step : 240 : Autocorrelation parameter before optimization : 0.597265 and then after : 0.593545
+
+current_loglk : -3242.677501
+stuck here 240
+
+			New log-likelihood of the multiTrees model :-3242.677501 -> -3242.676897
+current_loglk : -3242.676897
+stuck here 241
+
+			New log-likelihood of the multiTrees model :-3242.676897 -> -3242.676785
+current_loglk : -3242.676785
+stuck here 242
+
+			New log-likelihood of the multiTrees model :-3242.676785 -> -3242.676396
+current_loglk : -3242.676396
+stuck here 243
+
+			New log-likelihood of the multiTrees model :-3242.676396 -> -3242.676223
+current_loglk : -3242.676223
+stuck here 244
+
+			New log-likelihood of the multiTrees model :-3242.676223 -> -3242.675808
+current_loglk : -3242.675808
+stuck here 245
+
+			New log-likelihood of the multiTrees model :-3242.675808 -> -3242.675721
+current_loglk : -3242.675721
+stuck here 246
+
+			New log-likelihood of the multiTrees model :-3242.675721 -> -3242.675302
+current_loglk : -3242.675302
+stuck here 247
+
+			New log-likelihood of the multiTrees model :-3242.675302 -> -3242.675230
+current_loglk : -3242.675230
+stuck here 248
+
+			New log-likelihood of the multiTrees model :-3242.675230 -> -3242.674858
+current_loglk : -3242.674858
+stuck here 249
+
+			New log-likelihood of the multiTrees model :-3242.674858 -> -3242.674796
+
+step : 250 : Autocorrelation parameter before optimization : 0.593545 and then after : 0.590942
+
+current_loglk : -3242.674796
+stuck here 250
+
+			New log-likeliProcess 15811 : Log(lk) :    -3242.675230 ->    -3242.675198,    0 swap  done
+Process 15810 : Log(lk) :    -3242.674858 ->    -3242.674546,    0 swap  done
+Process 15811 : Log(lk) :    -3242.674796 ->    -3242.674770,    0 swap  done
+Process 15810 : Log(lk) :    -3242.674454 ->    -3242.674169,    0 swap  done
+Process 15810 : Log(lk) :    -3242.673929 ->    -3242.673630,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.674261 ->    -3242.674218,    0 swap  done
+Process 15811 : Log(lk) :    -3242.673854 ->    -3242.673828,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.673520 ->    -3242.673233,    0 swap  done
+Process 15810 : Log(lk) :    -3242.673153 ->    -3242.672894,    0 swap  done
+Process 15811 : Log(lk) :    -3242.673465 ->    -3242.673442,    0 swap  done
+Process 15810 : Log(lk) :    -3242.672894 ->    -3242.672692,    0 swap  done
+Process 15810 : Log(lk) :    -3242.672607 ->    -3242.672418,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3242.673106 ->    -3242.673085,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.672547 ->    -3242.672503,    0 swap  done
+Process 15811 : Log(lk) :    -3242.672503 ->    -3242.672499,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.672160 ->    -3242.671883,    0 swap  done
+Process 15810 : Log(lk) :    -3242.671883 ->    -3242.671677,    0 swap  done
+Process 15811 : Log(lk) :    -3242.671858 ->    -3242.671790,    0 swap  done
+Process 15810 : Log(lk) :    -3242.671645 ->    -3242.671471,    0 swap  done
+Process 15810 : Log(lk) :    -3242.671353 ->    -3242.671166,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.671557 ->    -3242.671538,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.671318 ->    -3242.671304,    0 swap  done
+Process 15811 : Log(lk) :    -3242.671304 ->    -3242.671303,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.671080 ->    -3242.670884,    0 swap  done
+Process 15810 : Log(lk) :    -3242.670884 ->    -3242.670732,    0 swap  done
+Process 15810 : Log(lk) :    -3242.670645 ->    -3242.670500,    0 swap  done
+Process 15810 : Log(lk) :    -3242.670404 ->    -3242.670248,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3242.670810 ->    -3242.670757,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.670572 ->    -3242.670556,    0 swap  done
+Process 15811 : Log(lk) :    -3242.670375 ->    -3242.670364,    0 swap  done
+Process 15811 : Log(lk) :    -3242.670177 ->    -3242.670161,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.670202 ->    -3242.670062,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.670026 ->    -3242.669899,    0 swap  done
+hood of the multiTrees model :-3242.674796 -> -3242.674325
+current_loglk : -3242.674325
+stuck here 251
+
+			New log-likelihood of the multiTrees model :-3242.674325 -> -3242.674261
+current_loglk : -3242.674261
+stuck here 252
+
+			New log-likelihood of the multiTrees model :-3242.674261 -> -3242.673929
+current_loglk : -3242.673929
+stuck here 253
+
+			New log-likelihood of the multiTrees model :-3242.673929 -> -3242.673854
+current_loglk : -3242.673854
+stuck here 254
+
+			New log-likelihood of the multiTrees model :-3242.673854 -> -3242.673520
+current_loglk : -3242.673520
+stuck here 255
+
+			New log-likelihood of the multiTrees model :-3242.673520 -> -3242.673465
+current_loglk : -3242.673465
+stuck here 256
+
+			New log-likelihood of the multiTrees model :-3242.673465 -> -3242.673153
+current_loglk : -3242.673153
+stuck here 257
+
+			New log-likelihood of the multiTrees model :-3242.673153 -> -3242.672894
+
+			New log-likelihood of the multiTrees model :-3242.672894 -> -3242.672825
+current_loglk : -3242.672825
+stuck here 258
+
+			New log-likelihood of the multiTrees model :-3242.672825 -> -3242.672607
+current_loglk : -3242.672607
+stuck here 259
+
+			New log-likelihood of the multiTrees model :-3242.672607 -> -3242.672547
+
+step : 260 : Autocorrelation parameter before optimization : 0.590942 and then after : 0.588561
+
+current_loglk : -3242.672547
+stuck here 260
+
+			New log-likelihood of the multiTrees model :-3242.672547 -> -3242.672404
+current_loglk : -3242.672404
+stuck here 261
+
+			New log-likelihood of the multiTrees model :-3242.672404 -> -3242.672160
+current_loglk : -3242.672160
+stuck here 262
+
+			New log-likelihood of the multiTrees model :-3242.672160 -> -3242.671883
+current_loglk : -3242.671883
+stuck here 263
+
+			New log-likelihood of the multiTrees model :-3242.671883 -> -3242.671858
+current_loglk : -3242.671858
+stuck here 264
+
+			New log-likelihood of the multiTrees model :-3242.671858 -> -3242.671645
+current_loglk : -3242.671645
+stuck here 265
+
+			New log-likelihood of the multiTrees model :-3242.671645 -> -3242.671557
+current_loglk : -3242.671557
+stuck here 266
+
+			New log-likelihood of the multiTrees model :-3242.671557 -> -3242.671353
+current_loglk : -3242.671353
+stuck here 267
+
+			New log-likelihood of the multiTrees model :-3242.671353 -> -3242.671318
+current_loglk : -3242.671318
+stuck here 268
+
+			New log-likelihood of the multiTrees model :-3242.671318 -> -3242.671304
+current_loglk : -3242.671304
+stuck here 269
+
+			New log-likelihood of the multiTrees model :-3242.671304 -> -3242.671080
+
+step : 270 : Autocorrelation parameter before optimization : 0.588561 and then after : 0.586761
+
+current_loglk : -3242.671080
+stuck here 270
+
+			New log-likelihood of the multiTrees model :-3242.671080 -> -3242.670823
+current_loglk : -3242.670823
+stuck here 271
+
+			New log-likelihood of the multiTrees model :-3242.670823 -> -3242.670810
+current_loglk : -3242.670810
+stuck here 272
+
+			New log-likelihood of the multiTrees model :-3242.670810 -> -3242.670645
+current_loglk : -3242.670645
+stuck here 273
+
+			New log-likelihood of the multiTrees model :-3242.670645 -> -3242.670572
+current_loglk : -3242.670572
+stuck here 274
+
+			New log-likelihood of the multiTrees model :-3242.670572 -> -3242.670404
+current_loglk : -3242.670404
+stuck here 275
+
+			New log-likelihood of the multiTrees model :-3242.670404 -> -3242.670375
+current_loglk : -3242.670375
+stuck here 276
+
+			New log-likelihood of the multiTrees model :-3242.670375 -> -3242.670202
+current_loglk : -3242.670202
+stuck here 277
+
+			New log-likelihood of the multiTrees model :-3242.670202 -> -3242.670177
+current_loglk : -3242.670177
+stuck here 278
+
+			New log-likelihood of the multiTrees model :-3242.670177 -> -3242.670026
+current_loglk : -3242.670026
+stuck here 279
+
+			New log-likelihood of the multiTrees model :-3242.670026 -> -3242.669899
+
+step : 280 : Autocorrelation parameter before optimization : 0.586761 and then after : 0.585165
+
+current_loglk : -3242.669899
+stuck here 280
+
+			New log-likelihood of the multiTrees model :-3242.669899 -> -3242.669814
+current_loglk : -3242.669814
+stuck hProcess 15810 : Log(lk) :    -3242.669899 ->    -3242.669798,    0 swap  done
+Process 15810 : Log(lk) :    -3242.669698 ->    -3242.669585,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.669857 ->    -3242.669828,    0 swap  done
+Process 15811 : Log(lk) :    -3242.669651 ->    -3242.669635,    0 swap  done
+Process 15811 : Log(lk) :    -3242.669635 ->    -3242.669634,    0 swap  done
+Process 15811 : Log(lk) :    -3242.669489 ->    -3242.669483,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3242.669494 ->    -3242.669352,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.669343 ->    -3242.669231,    0 swap  done
+Process 15810 : Log(lk) :    -3242.669231 ->    -3242.669142,    0 swap  done
+Process 15810 : Log(lk) :    -3242.669142 ->    -3242.669071,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.669113 ->    -3242.669068,    0 swap  done
+Process 15811 : Log(lk) :    -3242.669068 ->    -3242.669064,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668955 ->    -3242.668836,    0 swap  done
+Process 15811 : Log(lk) :    -3242.668947 ->    -3242.668943,    0 swap  done
+Process 15811 : Log(lk) :    -3242.668808 ->    -3242.668791,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3242.668819 ->    -3242.668727,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.668711 ->    -3242.668630,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668630 ->    -3242.668566,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.668596 ->    -3242.668579,    0 swap  done
+Process 15811 : Log(lk) :    -3242.668579 ->    -3242.668578,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668505 ->    -3242.668414,    0 swap  done
+Process 15811 : Log(lk) :    -3242.668502 ->    -3242.668500,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668380 ->    -3242.668303,    0 swap  done
+Process 15811 : Log(lk) :    -3242.668374 ->    -3242.668358,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.668295 ->    -3242.668229,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668229 ->    -3242.668177,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.668198 ->    -3242.668183,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668122 ->    -3242.668045,    0 swap  done
+Process 15811 : Log(lk) :    -3242.668183 ->    -3242.668182,    0 swap  done
+Process 15810 : Log(lk) :    -3242.668045 ->    -3242.667991,    0 swap  done
+ere 281
+
+			New log-likelihood of the multiTrees model :-3242.669814 -> -3242.669698
+current_loglk : -3242.669698
+stuck here 282
+
+			New log-likelihood of the multiTrees model :-3242.669698 -> -3242.669651
+current_loglk : -3242.669651
+stuck here 283
+
+			New log-likelihood of the multiTrees model :-3242.669651 -> -3242.669635
+current_loglk : -3242.669635
+stuck here 284
+
+			New log-likelihood of the multiTrees model :-3242.669635 -> -3242.669494
+current_loglk : -3242.669494
+stuck here 285
+
+			New log-likelihood of the multiTrees model :-3242.669494 -> -3242.669489
+current_loglk : -3242.669489
+stuck here 286
+
+			New log-likelihood of the multiTrees model :-3242.669489 -> -3242.669343
+current_loglk : -3242.669343
+stuck here 287
+
+			New log-likelihood of the multiTrees model :-3242.669343 -> -3242.669231
+current_loglk : -3242.669231
+stuck here 288
+
+			New log-likelihood of the multiTrees model :-3242.669231 -> -3242.669142
+current_loglk : -3242.669142
+stuck here 289
+
+			New log-likelihood of the multiTrees model :-3242.669142 -> -3242.669113
+
+step : 290 : Autocorrelation parameter before optimization : 0.585165 and then after : 0.583966
+
+current_loglk : -3242.669113
+stuck here 290
+
+			New log-likelihood of the multiTrees model :-3242.669113 -> -3242.669040
+current_loglk : -3242.669040
+stuck here 291
+
+			New log-likelihood of the multiTrees model :-3242.669040 -> -3242.668955
+current_loglk : -3242.668955
+stuck here 292
+
+			New log-likelihood of the multiTrees model :-3242.668955 -> -3242.668947
+current_loglk : -3242.668947
+stuck here 293
+
+			New log-likelihood of the multiTrees model :-3242.668947 -> -3242.668819
+current_loglk : -3242.668819
+stuck here 294
+
+			New log-likelihood of the multiTrees model :-3242.668819 -> -3242.668808
+current_loglk : -3242.668808
+stuck here 295
+
+			New log-likelihood of the multiTrees model :-3242.668808 -> -3242.668711
+current_loglk : -3242.668711
+stuck here 296
+
+			New log-likelihood of the multiTrees model :-3242.668711 -> -3242.668630
+current_loglk : -3242.668630
+stuck here 297
+
+			New log-likelihood of the multiTrees model :-3242.668630 -> -3242.668596
+current_loglk : -3242.668596
+stuck here 298
+
+			New log-likelihood of the multiTrees model :-3242.668596 -> -3242.668579
+current_loglk : -3242.668579
+stuck here 299
+
+			New log-likelihood of the multiTrees model :-3242.668579 -> -3242.668505
+
+step : 300 : Autocorrelation parameter before optimization : 0.583966 and then after : 0.582883
+
+current_loglk : -3242.668505
+stuck here 300
+
+			New log-likelihood of the multiTrees model :-3242.668505 -> -3242.668484
+current_loglk : -3242.668484
+stuck here 301
+
+			New log-likelihood of the multiTrees model :-3242.668484 -> -3242.668380
+current_loglk : -3242.668380
+stuck here 302
+
+			New log-likelihood of the multiTrees model :-3242.668380 -> -3242.668374
+current_loglk : -3242.668374
+stuck here 303
+
+			New log-likelihood of the multiTrees model :-3242.668374 -> -3242.668295
+current_loglk : -3242.668295
+stuck here 304
+
+			New log-likelihood of the multiTrees model :-3242.668295 -> -3242.668229
+current_loglk : -3242.668229
+stuck here 305
+
+			New log-likelihood of the multiTrees model :-3242.668229 -> -3242.668198
+current_loglk : -3242.668198
+stuck here 306
+
+			New log-likelihood of the multiTrees model :-3242.668198 -> -3242.668183
+current_loglk : -3242.668183
+stuck here 307
+
+			New log-likelihood of the multiTrees model :-3242.668183 -> -3242.668122
+current_loglk : -3242.668122
+stuck here 308
+
+			New log-likelihood of the multiTrees model :-3242.668122 -> -3242.668045
+current_loglk : -3242.668045
+stuck here 309
+
+			New log-likelihood of the multiTrees model :-3242.668045 -> -3242.668038
+
+step : 310 : Autocorrelation parameter before optimization : 0.582883 and then after : 0.581972
+
+current_loglk : -3242.668038
+stuck here 310
+
+			New log-likelihood of the multiTrees model :-3242.668038 -> -3242.667968
+current_loglk : -3242.667968
+stuck here 311
+
+			New log-likelihood of the multiTrees model :-3242.667968 -> -3242.667946
+current_loglk : -3242.667946
+stuck here 312
+
+			New log-likelihood of the multiTrees moProcess 15811 : Log(lk) :    -3242.668038 ->    -3242.668023,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667946 ->    -3242.667940,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15810 : Log(lk) :    -3242.667983 ->    -3242.667937,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667889 ->    -3242.667835,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.667877 ->    -3242.667873,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667815 ->    -3242.667765,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667805 ->    -3242.667799,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667752 ->    -3242.667707,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667741 ->    -3242.667737,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667683 ->    -3242.667680,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15810 : Log(lk) :    -3242.667691 ->    -3242.667648,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667636 ->    -3242.667596,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.667567 ->    -3242.667526,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667613 ->    -3242.667608,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667526 ->    -3242.667494,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667511 ->    -3242.667501,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667477 ->    -3242.667445,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667425 ->    -3242.667391,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.667463 ->    -3242.667460,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667418 ->    -3242.667415,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the gamma shape parameter...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.667381 ->    -3242.667352,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667372 ->    -3242.667368,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667328 ->    -3242.667296,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667286 ->    -3242.667256,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667246 ->    -3242.667218,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3242.667321 ->    -3242.667317,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.667278 ->    -3242.667275,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667240 ->    -3242.667237,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.667209 ->    -3242.667183,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667172 ->    -3242.667149,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667201 ->    -3242.667198,    0 swap  done
+del :-3242.667946 -> -3242.667889
+current_loglk : -3242.667889
+stuck here 313
+
+			New log-likelihood of the multiTrees model :-3242.667889 -> -3242.667877
+current_loglk : -3242.667877
+stuck here 314
+
+			New log-likelihood of the multiTrees model :-3242.667877 -> -3242.667815
+current_loglk : -3242.667815
+stuck here 315
+
+			New log-likelihood of the multiTrees model :-3242.667815 -> -3242.667805
+current_loglk : -3242.667805
+stuck here 316
+
+			New log-likelihood of the multiTrees model :-3242.667805 -> -3242.667752
+current_loglk : -3242.667752
+stuck here 317
+
+			New log-likelihood of the multiTrees model :-3242.667752 -> -3242.667741
+current_loglk : -3242.667741
+stuck here 318
+
+			New log-likelihood of the multiTrees model :-3242.667741 -> -3242.667691
+current_loglk : -3242.667691
+stuck here 319
+
+			New log-likelihood of the multiTrees model :-3242.667691 -> -3242.667683
+
+step : 320 : Autocorrelation parameter before optimization : 0.581972 and then after : 0.581161
+
+current_loglk : -3242.667683
+stuck here 320
+
+			New log-likelihood of the multiTrees model :-3242.667683 -> -3242.667623
+current_loglk : -3242.667623
+stuck here 321
+
+			New log-likelihood of the multiTrees model :-3242.667623 -> -3242.667613
+current_loglk : -3242.667613
+stuck here 322
+
+			New log-likelihood of the multiTrees model :-3242.667613 -> -3242.667567
+current_loglk : -3242.667567
+stuck here 323
+
+			New log-likelihood of the multiTrees model :-3242.667567 -> -3242.667526
+current_loglk : -3242.667526
+stuck here 324
+
+			New log-likelihood of the multiTrees model :-3242.667526 -> -3242.667511
+current_loglk : -3242.667511
+stuck here 325
+
+			New log-likelihood of the multiTrees model :-3242.667511 -> -3242.667477
+current_loglk : -3242.667477
+stuck here 326
+
+			New log-likelihood of the multiTrees model :-3242.667477 -> -3242.667463
+current_loglk : -3242.667463
+stuck here 327
+
+			New log-likelihood of the multiTrees model :-3242.667463 -> -3242.667425
+current_loglk : -3242.667425
+stuck here 328
+
+			New log-likelihood of the multiTrees model :-3242.667425 -> -3242.667418
+current_loglk : -3242.667418
+stuck here 329
+
+			New log-likelihood of the multiTrees model :-3242.667418 -> -3242.667381
+
+step : 330 : Autocorrelation parameter before optimization : 0.581161 and then after : 0.580409
+
+current_loglk : -3242.667381
+stuck here 330
+
+			New log-likelihood of the multiTrees model :-3242.667381 -> -3242.667363
+current_loglk : -3242.667363
+stuck here 331
+
+			New log-likelihood of the multiTrees model :-3242.667363 -> -3242.667328
+current_loglk : -3242.667328
+stuck here 332
+
+			New log-likelihood of the multiTrees model :-3242.667328 -> -3242.667321
+current_loglk : -3242.667321
+stuck here 333
+
+			New log-likelihood of the multiTrees model :-3242.667321 -> -3242.667286
+current_loglk : -3242.667286
+stuck here 334
+
+			New log-likelihood of the multiTrees model :-3242.667286 -> -3242.667278
+current_loglk : -3242.667278
+stuck here 335
+
+			New log-likelihood of the multiTrees model :-3242.667278 -> -3242.667246
+current_loglk : -3242.667246
+stuck here 336
+
+			New log-likelihood of the multiTrees model :-3242.667246 -> -3242.667240
+current_loglk : -3242.667240
+stuck here 337
+
+			New log-likelihood of the multiTrees model :-3242.667240 -> -3242.667209
+current_loglk : -3242.667209
+stuck here 338
+
+			New log-likelihood of the multiTrees model :-3242.667209 -> -3242.667201
+current_loglk : -3242.667201
+stuck here 339
+
+			New log-likelihood of the multiTrees model :-3242.667201 -> -3242.667172
+
+step : 340 : Autocorrelation parameter before optimization : 0.580409 and then after : 0.579815
+
+current_loglk : -3242.667172
+stuck here 340
+
+			New log-likelihood of the multiTrees model :-3242.667172 -> -3242.667161
+current_loglk : -3242.667161
+stuck here 341
+
+			New log-likelihood of the multiTrees model :-3242.667161 -> -3242.667134
+current_loglk : -3242.667134
+stuck here 342
+
+			New log-likelihood of the multiTrees model :-3242.667134 -> -3242.667109
+current_loglk : -3242.667109
+stuck here 343
+
+			New log-likelihood of the multiTrees model :-3242.667109 -> -3242.667102
+current_loglk : -Process 15810 : Log(lk) :    -3242.667134 ->    -3242.667109,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667109 ->    -3242.667090,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3242.667167 ->    -3242.667165,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.667102 ->    -3242.667094,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667094 ->    -3242.667093,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.667071 ->    -3242.667044,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667044 ->    -3242.667025,    0 swap  done
+Process 15811 : Log(lk) :    -3242.667039 ->    -3242.667033,    0 swap  done
+Process 15810 : Log(lk) :    -3242.667019 ->    -3242.667003,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666992 ->    -3242.666974,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.667012 ->    -3242.667011,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.666984 ->    -3242.666982,    0 swap  done
+Process 15811 : Log(lk) :    -3242.666982 ->    -3242.666981,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.666958 ->    -3242.666937,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666937 ->    -3242.666921,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666917 ->    -3242.666904,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666894 ->    -3242.666879,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+Process 15811 : Log(lk) :    -3242.666934 ->    -3242.666928,    0 swap  done
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.666910 ->    -3242.666909,    0 swap  done
+Process 15811 : Log(lk) :    -3242.666892 ->    -3242.666891,    0 swap  done
+Process 15811 : Log(lk) :    -3242.666867 ->    -3242.666864,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.666874 ->    -3242.666861,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666852 ->    -3242.666839,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666839 ->    -3242.666828,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666819 ->    -3242.666807,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+Process 15811 : Log(lk) :    -3242.666831 ->    -3242.666827,    0 swap  done
+
+. Optimisation of the gamma shape parameter...
+Process 15811 : Log(lk) :    -3242.666814 ->    -3242.666813,    0 swap  done
+Receiving SIGUSR2
+Optimization finished for client 15811Client pauses
+Job done for client 15811
+Process 15810 : Log(lk) :    -3242.666797 ->    -3242.666784,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666784 ->    -3242.666774,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666774 ->    -3242.666766,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666762 ->    -3242.666754,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.666754 ->    -3242.666748,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666748 ->    -3242.666743,    0 swap  done
+3242.667102
+stuck here 344
+
+			New log-likelihood of the multiTrees model :-3242.667102 -> -3242.667094
+current_loglk : -3242.667094
+stuck here 345
+
+			New log-likelihood of the multiTrees model :-3242.667094 -> -3242.667071
+current_loglk : -3242.667071
+stuck here 346
+
+			New log-likelihood of the multiTrees model :-3242.667071 -> -3242.667044
+current_loglk : -3242.667044
+stuck here 347
+
+			New log-likelihood of the multiTrees model :-3242.667044 -> -3242.667039
+current_loglk : -3242.667039
+stuck here 348
+
+			New log-likelihood of the multiTrees model :-3242.667039 -> -3242.667019
+current_loglk : -3242.667019
+stuck here 349
+
+			New log-likelihood of the multiTrees model :-3242.667019 -> -3242.667012
+
+step : 350 : Autocorrelation parameter before optimization : 0.579815 and then after : 0.579286
+
+current_loglk : -3242.667012
+stuck here 350
+
+			New log-likelihood of the multiTrees model :-3242.667012 -> -3242.666987
+current_loglk : -3242.666987
+stuck here 351
+
+			New log-likelihood of the multiTrees model :-3242.666987 -> -3242.666984
+current_loglk : -3242.666984
+stuck here 352
+
+			New log-likelihood of the multiTrees model :-3242.666984 -> -3242.666982
+current_loglk : -3242.666982
+stuck here 353
+
+			New log-likelihood of the multiTrees model :-3242.666982 -> -3242.666958
+current_loglk : -3242.666958
+stuck here 354
+
+			New log-likelihood of the multiTrees model :-3242.666958 -> -3242.666937
+current_loglk : -3242.666937
+stuck here 355
+
+			New log-likelihood of the multiTrees model :-3242.666937 -> -3242.666934
+current_loglk : -3242.666934
+stuck here 356
+
+			New log-likelihood of the multiTrees model :-3242.666934 -> -3242.666917
+current_loglk : -3242.666917
+stuck here 357
+
+			New log-likelihood of the multiTrees model :-3242.666917 -> -3242.666910
+current_loglk : -3242.666910
+stuck here 358
+
+			New log-likelihood of the multiTrees model :-3242.666910 -> -3242.666894
+current_loglk : -3242.666894
+stuck here 359
+
+			New log-likelihood of the multiTrees model :-3242.666894 -> -3242.666892
+
+step : 360 : Autocorrelation parameter before optimization : 0.579286 and then after : 0.578836
+
+current_loglk : -3242.666892
+stuck here 360
+
+			New log-likelihood of the multiTrees model :-3242.666892 -> -3242.666870
+current_loglk : -3242.666870
+stuck here 361
+
+			New log-likelihood of the multiTrees model :-3242.666870 -> -3242.666867
+current_loglk : -3242.666867
+stuck here 362
+
+			New log-likelihood of the multiTrees model :-3242.666867 -> -3242.666852
+current_loglk : -3242.666852
+stuck here 363
+
+			New log-likelihood of the multiTrees model :-3242.666852 -> -3242.666839
+current_loglk : -3242.666839
+stuck here 364
+
+			New log-likelihood of the multiTrees model :-3242.666839 -> -3242.666831
+current_loglk : -3242.666831
+stuck here 365
+
+			New log-likelihood of the multiTrees model :-3242.666831 -> -3242.666819
+current_loglk : -3242.666819
+stuck here 366
+
+			New log-likelihood of the multiTrees model :-3242.666819 -> -3242.666814
+current_loglk : -3242.666814
+stuck here 367
+
+			New log-likelihood of the multiTrees model :-3242.666814 -> -3242.666813
+A client has converged !
+current_loglk : -3242.666813
+stuck here 368
+
+			New log-likelihood of the multiTrees model :-3242.666813 -> -3242.666797
+current_loglk : -3242.666797
+stuck here 369
+
+			New log-likelihood of the multiTrees model :-3242.666797 -> -3242.666784
+
+step : 370 : Autocorrelation parameter before optimization : 0.578836 and then after : 0.578414
+
+current_loglk : -3242.666784
+stuck here 370
+
+			New log-likelihood of the multiTrees model :-3242.666784 -> -3242.666770
+current_loglk : -3242.666770
+stuck here 371
+
+			New log-likelihood of the multiTrees model :-3242.666770 -> -3242.666762
+current_loglk : -3242.666762
+stuck here 372
+
+			New log-likelihood of the multiTrees model :-3242.666762 -> -3242.666754
+current_loglk : -3242.666754
+stuck here 373
+
+			New log-likelihood of the multiTrees model :-3242.666754 -> -3242.666748
+current_loglk : -3242.666748
+stuck here 374
+
+			New log-likelihood of the multiTrees model :-3242.666748 -> -3242.666743
+current_loglk : -3242.666743
+stuck here 375Process 15810 : Log(lk) :    -3242.666743 ->    -3242.666739,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666739 ->    -3242.666736,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.666735 ->    -3242.666732,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666732 ->    -3242.666729,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666729 ->    -3242.666727,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666727 ->    -3242.666725,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.666725 ->    -3242.666723,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666721 ->    -3242.666719,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666719 ->    -3242.666718,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666718 ->    -3242.666717,    0 swap  done
+
+
+. Optimisation of the ts/tv ratio...
+
+. Optimisation of the proportion of invariable sites...
+
+. Optimisation of the gamma shape parameter...
+Process 15810 : Log(lk) :    -3242.666716 ->    -3242.666715,    0 swap  done
+Process 15810 : Log(lk) :    -3242.666715 ->    -3242.666714,    0 swap  done
+Receiving SIGUSR2
+Optimization finished for client 15810Client pauses
+Job done for client 15810
+
+
+			New log-likelihood of the multiTrees model :-3242.666743 -> -3242.666739
+current_loglk : -3242.666739
+stuck here 376
+
+			New log-likelihood of the multiTrees model :-3242.666739 -> -3242.666735
+current_loglk : -3242.666735
+stuck here 377
+
+			New log-likelihood of the multiTrees model :-3242.666735 -> -3242.666732
+current_loglk : -3242.666732
+stuck here 378
+
+			New log-likelihood of the multiTrees model :-3242.666732 -> -3242.666729
+current_loglk : -3242.666729
+stuck here 379
+
+			New log-likelihood of the multiTrees model :-3242.666729 -> -3242.666727
+
+step : 380 : Autocorrelation parameter before optimization : 0.578414 and then after : 0.578119
+
+current_loglk : -3242.666727
+stuck here 380
+
+			New log-likelihood of the multiTrees model :-3242.666727 -> -3242.666723
+current_loglk : -3242.666723
+stuck here 381
+
+			New log-likelihood of the multiTrees model :-3242.666723 -> -3242.666721
+current_loglk : -3242.666721
+stuck here 382
+
+			New log-likelihood of the multiTrees model :-3242.666721 -> -3242.666719
+current_loglk : -3242.666719
+stuck here 383
+
+			New log-likelihood of the multiTrees model :-3242.666719 -> -3242.666718
+current_loglk : -3242.666718
+stuck here 384
+
+			New log-likelihood of the multiTrees model :-3242.666718 -> -3242.666716
+current_loglk : -3242.666716
+stuck here 385
+
+			New log-likelihood of the multiTrees model :-3242.666716 -> -3242.666715
+current_loglk : -3242.666715
+stuck here 386
+
+			New log-likelihood of the multiTrees model :-3242.666715 -> -3242.666714
+A client has converged !
+
+
+			Entering the last round of optimizations, if any
+
+WAITING
+Over, code=0 (normal behaviour)
+Over, code=0 (normal behaviour)
+			Final Log-likelihood of the multiTrees model : -3242.666714
+
+
+. Time used 0h0m5s
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
